@@ -1,0 +1,924 @@
+cik,ticker,sic,sic_description,categorie,source,a_verifier
+1800,ABT,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+2488,AMD,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+2969,APD,2810,Industrial Inorganic Chemicals,Standard,sic du cik (defaut),non
+3673,AYE,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+4127,SWKS,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+4281,ARNC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Cyclique,sic du cik (regle sic),non
+4447,HES,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+4904,AEP,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+4962,AXP,6199,Finance Services,Banque,sic du cik (regle sic),oui
+4977,AFL,6321,Accident & Health Insurance,Assurance,sic du cik (regle sic),non
+5133,AM,2771,Greeting Cards,Standard,sic du cik (defaut),non
+5272,AIG,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+5513,PVT,6321,Accident & Health Insurance,Assurance,sic du cik (regle sic),non
+6201,AAL,4512,"Air Transportation, Scheduled",Cyclique,sic du cik (regle sic),non
+6281,ADI,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+6769,APA,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+6951,AMAT,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+7084,ADM,2070,Fats & Oils,Standard,sic du cik (defaut),non
+7332,SWN,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+7431,ACKH,3089,"Plastics Products, NEC",Standard,sic du cik (defaut),non
+8670,ADP,7374,Services-Computer Processing & Data Preparation,Standard,sic du cik (defaut),non
+8818,AVY,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,sic du cik (defaut),non
+8868,AVP,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,sic du cik (defaut),non
+9389,BALL,3411,Metal Cans,Standard,sic du cik (defaut),non
+9892,BCR,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+10456,BAX,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+10795,BDX,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+11199,BMS,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,sic du cik (defaut),non
+11544,WRB,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+12208,BIO,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+12659,HRB,7200,Services-Personal Services,Standard,sic du cik (defaut),non
+12927,BA,3721,Aircraft,Standard,sic du cik (defaut),non
+12978,OMX,5110,Wholesale-Paper & Paper Products,Standard,sic du cik (defaut),non
+14195,BGG,3510,Engines & Turbines,Standard,sic du cik (defaut),non
+14272,BMY,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+14693,BF.B,2080,Beverages,Standard,sic du cik (defaut),non
+14707,CAL,3140,"Footwear, (No Rubber)",Standard,sic du cik (defaut),non
+14930,BC,3510,Engines & Turbines,Standard,sic du cik (defaut),non
+16099,LUB,5812,Retail-Eating  Places,Standard,sic du cik (defaut),non
+16732,CPB,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+16918,STZ,2080,Beverages,Standard,sic du cik (defaut),non
+18230,CAT,3531,Construction Machinery & Equip,Standard,sic du cik (defaut),non
+18349,SNV,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+18926,CTL,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+19353,CHRS,5621,Retail-Women's Clothing Stores,Standard,sic du cik (defaut),non
+19617,JPM,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+20171,CB,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+20286,CINF,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+20520,FTR,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+21076,CLX,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Standard,sic du cik (defaut),non
+21344,KO,2080,Beverages,Standard,sic du cik (defaut),non
+21665,CL,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,sic du cik (defaut),non
+23082,DXC,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+23217,CAG,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+23666,HSH,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+23675,CNW,4213,Trucking (No Local),Standard,sic du cik (defaut),non
+24491,CTB,3011,Tires & Inner Tubes,Standard,sic du cik (defaut),non
+24545,TAP,2082,Malt Beverages,Standard,sic du cik (defaut),non
+24741,GLW,3357,Drawing & Insulating of  Nonferrous Wire,Cyclique,sic du cik (regle sic),non
+25445,CR,3490,Miscellaneous Fabricated Metal Products,Standard,sic du cik (defaut),non
+26172,CMI,3510,Engines & Turbines,Standard,sic du cik (defaut),non
+26780,DCNAQ,3714,Motor Vehicle Parts & Accessories,Standard,sic du cik (defaut),non
+27419,TGT,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+27904,DAL,4512,"Air Transportation, Scheduled",Cyclique,sic du cik (regle sic),non
+27996,DLX,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Standard,sic du cik (defaut),non
+28412,CMA,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+28917,DDS,5311,Retail-Department Stores,Standard,sic du cik (defaut),non
+29534,DG,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+29669,RRD,2750,Commercial Printing,Standard,sic du cik (defaut),non
+29905,DOV,3530,"Construction, Mining & Materials Handling Machinery & Equip",Standard,sic du cik (defaut),non
+29915,DOW,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,sic du cik (defaut),non
+29989,OMC,7311,Services-Advertising Agencies,Standard,sic du cik (defaut),non
+30554,DD,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,sic du cik (defaut),non
+30625,FLS,3561,Pumps & Pumping Equipment,Standard,sic du cik (defaut),non
+30697,WEN,5810,Retail-Eating & Drinking Places,Standard,sic du cik (defaut),non
+31235,EKDKQ,3861,Photographic Equipment & Supplies,Standard,sic du cik (defaut),non
+31277,ETN,3590,Misc Industrial & Commercial Machinery & Equipment,Standard,sic du cik (defaut),non
+31462,ECL,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,sic du cik (defaut),non
+31791,PKI,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+32604,EMR,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,sic du cik (defaut),non
+33185,EFX,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,sic du cik (defaut),non
+33213,EQT,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+34088,XOM,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+34408,FDO,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+34903,FRT,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+35527,FITB,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+36104,USB,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+36270,MTB,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+36966,FHN,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+37748,MEE,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,sic du cik (regle sic),non
+37785,FMC,2800,Chemicals & Allied Products,Standard,sic du cik (defaut),non
+37996,F,3711,Motor Vehicles & Passenger Car Bodies,Non applicable,"manuelle : Ford : dette industrielle et dette de Ford Credit (filiale financiere) non comparables d'une annee a l'autre, les interets publies melangent les deux",non
+38074,FRX,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+38777,BEN,6282,Investment Advice,Standard,sic du cik (regle sic),non
+39899,TGNA,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+39911,GPS,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+40533,GD,3730,Ship & Boat Building & Repairing,Standard,sic du cik (defaut),non
+40545,GE,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,sic du cik (defaut),non
+40704,GIS,2040,Grain Mill Products,Standard,sic du cik (defaut),non
+40730,MTLQQ,3711,Motor Vehicles & Passenger Car Bodies,Standard,sic du cik (defaut),non
+40987,GPC,5013,Wholesale-Motor Vehicle Supplies & New Parts,Standard,sic du cik (defaut),non
+42542,GR,3760,Guided Missiles & Space Vehicles & Parts,Standard,sic du cik (defaut),non
+42582,GT,3011,Tires & Inner Tubes,Standard,sic du cik (defaut),non
+45012,HAL,1389,"Oil & Gas Field Services, NEC",Cyclique,sic du cik (regle sic),non
+46080,HAS,3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Standard,sic du cik (defaut),non
+46640,HNZ,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,sic du cik (defaut),non
+46765,HP,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+47111,HSY,2060,Sugar & Confectionery Products,Standard,sic du cik (defaut),non
+47217,HPQ,3570,Computer & office Equipment,Standard,sic du cik (defaut),non
+48039,HFC,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+48465,HRL,2011,Meat Packing Plants,Standard,sic du cik (defaut),non
+48732,CNP,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+48898,HUBB,3670,Electronic Components & Accessories,Standard,sic du cik (defaut),non
+49071,HUM,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+49196,HBAN,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+49826,ITW,3560,General Industrial Machinery & Equipment,Standard,sic du cik (defaut),non
+50104,ANDV,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+50863,INTC,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+51143,IBM,3570,Computer & office Equipment,Standard,sic du cik (defaut),non
+51253,IFF,2860,Industrial Organic Chemicals,Standard,sic du cik (defaut),non
+51434,IP,2621,Paper Mills,Cyclique,sic du cik (regle sic),non
+51644,IPG,7311,Services-Advertising Agencies,Standard,sic du cik (defaut),non
+52988,J,1600,Heavy Construction Other Than Bldg Const - Contractors,Standard,sic du cik (defaut),non
+54480,KSU,4011,"Railroads, Line-Haul Operating",Standard,sic du cik (defaut),non
+55067,K,2040,Grain Mill Products,Standard,sic du cik (defaut),non
+55785,KMB,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,sic du cik (defaut),non
+56873,KR,5411,Retail-Grocery Stores,Standard,sic du cik (defaut),non
+58492,LEG,2510,Household Furniture,Standard,sic du cik (defaut),non
+59478,LLY,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+59558,LNC,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+60086,L,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+60519,LPX,2400,Lumber & Wood Products (No Furniture),Standard,sic du cik (defaut),non
+60667,LOW,5211,Retail-Lumber & Other Building Materials Dealers,Standard,sic du cik (defaut),non
+61986,MTW,3531,Construction Machinery & Equip,Standard,sic du cik (defaut),non
+62709,MMC,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+62996,MAS,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Standard,sic du cik (defaut),non
+63276,MAT,3942,Dolls & Stuffed Toys,Standard,sic du cik (defaut),non
+63754,MKC,2090,Miscellaneous Food Preparations & Kindred Products,Standard,sic du cik (defaut),non
+63908,MCD,5812,Retail-Eating  Places,Standard,sic du cik (defaut),non
+64040,SPGI,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,sic du cik (defaut),non
+64670,MDT,3845,Electromedical & Electrotherapeutic Apparatus,Standard,sic du cik (defaut),non
+64803,CVS,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+64978,MRK,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+65011,MDP,2721,Periodicals: Publishing or  Publishing & Printing,Standard,sic du cik (defaut),non
+65100,MER,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+65984,ETR,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+66740,MMM,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+67472,MOLX,3678,Electronic Connectors,Standard,sic du cik (defaut),non
+68505,MSI,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,sic du cik (defaut),non
+69499,MYL,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+70318,THC,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,sic du cik (defaut),non
+70530,NSM,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+70858,BAC,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+70866,NCR,3578,Calculating & Accounting Machines (No Electronic Computers),Standard,sic du cik (defaut),non
+71691,NYT,2711,Newspapers: Publishing or  Publishing & Printing,Standard,sic du cik (defaut),non
+72020,GAS,4924,Natural Gas Distribution,Regulee,sic du cik (regle sic),oui
+72207,NBL,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+72331,NDSN,3569,"General Industrial Machinery & Equipment, NEC",Standard,sic du cik (defaut),non
+72333,JWN,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+72741,ES,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+72903,XEL,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+72911,NRTLQ,3661,Telephone & Telegraph Apparatus,Standard,sic du cik (defaut),non
+72971,WFC,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+73124,NTRS,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+73309,NUE,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,sic du cik (regle sic),non
+74208,UDR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+75362,PCAR,3711,Motor Vehicles & Passenger Car Bodies,Standard,sic du cik (defaut),non
+75594,PPW,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+75677,PKG,2650,Paperboard Containers & Boxes,Standard,sic du cik (defaut),non
+75829,PLL,3569,"General Industrial Machinery & Equipment, NEC",Standard,sic du cik (defaut),non
+76334,PH,3490,Miscellaneous Fabricated Metal Products,Standard,sic du cik (defaut),non
+77360,PNR,3550,Special Industry Machinery (No Metalworking Machinery),Standard,sic du cik (defaut),non
+77449,PBY,5531,Retail-Auto & Home Supply Stores,Standard,sic du cik (defaut),non
+77476,PEP,2080,Beverages,Standard,sic du cik (defaut),non
+78003,PFE,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+78239,PVH,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,sic du cik (defaut),non
+78814,PBI,3579,"Office Machines, NEC",Standard,sic du cik (defaut),non
+78890,BCO,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,sic du cik (defaut),non
+79282,BRO,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+79879,PPG,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Standard,sic du cik (defaut),non
+79958,PCP,3320,Iron & Steel Foundries,Cyclique,sic du cik (regle sic),non
+80424,PG,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,sic du cik (defaut),non
+80661,PGR,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+83246,RNB,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+84129,RAD,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+84839,ROL,7340,Services-To Dwellings & Other Buildings,Standard,sic du cik (defaut),non
+85408,RDC,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+85961,R,7510,Services-Auto Rental & Leasing (No Drivers),Standard,sic du cik (defaut),non
+86144,SWY,5411,Retail-Grocery Stores,Standard,sic du cik (defaut),non
+86312,TRV,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+87347,SLB,1389,"Oil & Gas Field Services, NEC",Cyclique,sic du cik (regle sic),non
+89089,SCI,7200,Services-Personal Services,Standard,sic du cik (defaut),non
+89800,SHW,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,sic du cik (defaut),non
+90185,SIAL,5160,Wholesale-Chemicals & Allied Products,Standard,sic du cik (defaut),non
+91142,AOS,3630,Household Appliances,Standard,sic du cik (defaut),non
+91419,SJM,2033,"Canned, Fruits, Veg, Preserves, Jams & Jellies",Standard,sic du cik (defaut),non
+91440,SNA,3420,"Cutlery, Handtools & General Hardware",Standard,sic du cik (defaut),non
+91576,KEY,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+91882,SCG,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+92122,SO,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+92230,BBT,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+92380,LUV,4512,"Air Transportation, Scheduled",Cyclique,sic du cik (regle sic),non
+93410,CVX,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+93556,SWK,3420,"Cutlery, Handtools & General Hardware",Standard,sic du cik (defaut),non
+93751,STT,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+95304,SUN,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+95521,SVU,5141,"Wholesale-Groceries, General Line",Standard,sic du cik (defaut),non
+96021,SYY,5140,Wholesale-Groceries & Related Products,Standard,sic du cik (defaut),non
+96223,JEF,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+96289,RSHCQ,5731,"Retail-Radio, Tv & Consumer Electronics Stores",Standard,sic du cik (defaut),non
+96943,TFX,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+97210,TER,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Standard,sic du cik (defaut),non
+97216,TEX,3537,"Industrial Trucks, Tractors, Trailors & Stackers",Standard,sic du cik (defaut),non
+97476,TXN,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+97745,TMO,3829,"Measuring & Controlling Devices, NEC",Standard,sic du cik (defaut),non
+97854,TNB,3640,Electric Lighting & Wiring Equipment,Standard,sic du cik (defaut),non
+98246,TIF,5944,Retail-Jewelry Stores,Standard,sic du cik (defaut),non
+98362,TKR,3562,Ball & Roller Bearings,Standard,sic du cik (defaut),non
+100493,TSN,2015,Poultry Slaughtering and Processing,Standard,sic du cik (defaut),non
+100517,UAL,4512,"Air Transportation, Scheduled",Cyclique,sic du cik (regle sic),non
+100790,UK,2860,Industrial Organic Chemicals,Standard,sic du cik (defaut),non
+100885,UNP,4011,"Railroads, Line-Haul Operating",Standard,sic du cik (defaut),non
+101778,MRO,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+101829,RTX,3724,Aircraft Engines & Engine Parts,Standard,sic du cik (defaut),non
+101830,PCS,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+103379,VFC,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,sic du cik (defaut),non
+104169,WMT,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+104207,WBA,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+104889,GHC,8200,Services-Educational Services,Standard,sic du cik (defaut),non
+105634,EME,1731,Electrical Work,Standard,sic du cik (defaut),non
+105770,WST,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+106040,WDC,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+106535,WY,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+106640,WHR,3630,Household Appliances,Standard,sic du cik (defaut),non
+107263,WMB,4922,Natural Gas Transmission,Regulee,sic du cik (regle sic),oui
+108516,WOR,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Cyclique,sic du cik (regle sic),non
+108772,XRX,3577,"Computer Peripheral Equipment, NEC",Standard,sic du cik (defaut),non
+109198,TJX,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+109380,ZION,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+109758,CEN,8700,"Services-Engineering, Accounting, Research, Management",Standard,sic du cik (defaut),non
+200245,SB,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+200406,JNJ,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+202058,HRS,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+203077,STJ,3845,Electromedical & Electrotherapeutic Apparatus,Standard,sic du cik (defaut),non
+203527,VAR,3845,Electromedical & Electrotherapeutic Apparatus,Standard,sic du cik (defaut),non
+216228,ITT,3561,Pumps & Pumping Equipment,Standard,sic du cik (defaut),non
+217346,TXT,3720,Aircraft & Parts,Standard,sic du cik (defaut),non
+230211,FDX,4513,Air Courier Services,Standard,sic du cik (defaut),non
+277135,GWW,5000,Wholesale-Durable Goods,Standard,sic du cik (defaut),non
+277948,CSX,4011,"Railroads, Line-Haul Operating",Standard,sic du cik (defaut),non
+310158,MRK,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+310522,FNMA,6111,Federal & Federally-Sponsored Credit Agencies,Banque,sic du cik (regle sic),non
+310764,SYK,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+313616,DHR,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,sic du cik (defaut),non
+313927,CHD,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,sic du cik (defaut),non
+314808,ESV,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+315189,DE,3523,Farm Machinery & Equipment,Standard,sic du cik (defaut),non
+315213,RHI,7363,Services-Help Supply Services,Standard,sic du cik (defaut),non
+315293,AON,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+315852,RRC,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+316206,HOT,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+316709,SCHW,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+317771,TLAB,3661,Telephone & Telegraph Apparatus,Standard,sic du cik (defaut),non
+318154,AMGN,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+319201,KLAC,3827,Optical Instruments & Lenses,Standard,sic du cik (defaut),non
+320187,NKE,3021,Rubber & Plastics Footwear,Standard,sic du cik (defaut),non
+320193,AAPL,3571,Electronic Computers,Standard,sic du cik (defaut),non
+320335,GL,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+350563,TE,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+350698,AN,5500,Retail-Auto Dealers & Gasoline Stations,Standard,sic du cik (defaut),non
+351346,BMET,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+352363,KATE,2330,"Women's, Misses':  and Juniors Outerwear",Standard,sic du cik (defaut),non
+352541,LNT,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+352915,UHS,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,sic du cik (defaut),non
+353944,IGT,3990,Miscellaneous Manufacturing Industries,Standard,sic du cik (defaut),non
+354190,AJG,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+354908,FLIR,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+354950,HD,5211,Retail-Lumber & Other Building Materials Dealers,Standard,sic du cik (defaut),non
+354964,HI,6141,Personal Credit Institutions,Banque,sic du cik (regle sic),non
+356028,CA,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+701221,CI,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+701985,BBWI,5990,"Retail-Retail Stores, NEC",Standard,sic du cik (defaut),non
+702165,NSC,4011,"Railroads, Line-Haul Operating",Standard,sic du cik (defaut),non
+703360,LSI,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+704051,LM,6282,Investment Advice,Standard,sic du cik (regle sic),non
+707549,LRCX,3559,"Special Industry Machinery, NEC",Standard,sic du cik (defaut),non
+708819,MDR,3443,Fabricated Plate Work (Boiler Shops),Standard,sic du cik (defaut),non
+709804,SXCL,1389,"Oil & Gas Field Services, NEC",Cyclique,sic du cik (regle sic),non
+711065,AMCC,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+711404,COO,3851,Ophthalmic Goods,Standard,sic du cik (defaut),non
+712515,EA,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+713676,PNC,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+715957,D,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+716006,YRCW,4213,Trucking (No Local),Standard,sic du cik (defaut),non
+716133,CBB,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+717423,MUR,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+718877,ATVI,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+719739,SIVB,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+719955,WSM,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Standard,sic du cik (defaut),non
+720005,RJF,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+721083,SII,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+721371,CAH,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,sic du cik (defaut),non
+721683,TSS,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+723125,MU,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+723254,CTAS,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,sic du cik (defaut),non
+723531,PAYX,8700,"Services-Engineering, Accounting, Research, Management",Standard,sic du cik (defaut),non
+723612,CAR,7510,Services-Auto Rental & Leasing (No Drivers),Standard,sic du cik (defaut),non
+726513,TRB,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+726728,O,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+726958,CASY,5500,Retail-Auto Dealers & Gasoline Stations,Standard,sic du cik (defaut),non
+728535,JBHT,4213,Trucking (No Local),Standard,sic du cik (defaut),non
+730464,ATGE,8200,Services-Educational Services,Standard,sic du cik (defaut),non
+731766,UNH,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+731802,ATO,4924,Natural Gas Distribution,Regulee,sic du cik (regle sic),oui
+731939,TIN,2631,Paperboard Mills,Cyclique,sic du cik (regle sic),non
+732485,GENZ,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+732712,VZ,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+732717,T,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+740260,VTR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+743316,MXIM,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+743988,XLNX,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+745732,ROST,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+746515,EXPD,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,sic du cik (defaut),non
+746838,UIS,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+749251,IT,8741,Services-Management Services,Standard,sic du cik (defaut),non
+750556,STI,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+751652,STR,4923,Natural Gas Transmisison & Distribution,Regulee,sic du cik (regle sic),oui
+753308,NEE,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+758004,NOVL,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+759944,CFG,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+764065,CLF,1000,Metal Mining,Cyclique,sic du cik (regle sic),non
+764180,MO,2111,Cigarettes,Standard,sic du cik (defaut),non
+764478,BBY,5731,"Retail-Radio, Tv & Consumer Electronics Stores",Standard,sic du cik (defaut),non
+764622,PNW,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+765880,DOC,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+766421,ALK,4512,"Air Transportation, Scheduled",Cyclique,sic du cik (regle sic),non
+766704,WELL,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+767920,PMCS,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+768251,ALTR,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+768835,BIG,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+769397,ADSK,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+773840,HON,3724,Aircraft Engines & Engine Parts,Standard,sic du cik (defaut),non
+773910,APC,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+779152,JKHY,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+783280,DRE,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+783325,WEC,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+785161,EHC,8060,Services-Hospitals,Standard,sic du cik (defaut),non
+788784,PEG,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+789019,MSFT,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+789073,BEAM,2080,Beverages,Standard,sic du cik (defaut),non
+789570,MGM,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+789933,NC,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,sic du cik (regle sic),non
+790070,EMC,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+790528,RYI,5051,Wholesale-Metals Service Centers & of fices,Standard,sic du cik (defaut),non
+791519,SPLS,5940,Retail-Miscellaneous Shopping Goods Stores,Standard,sic du cik (defaut),non
+791907,LLTC,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+792985,HMA,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,sic du cik (defaut),non
+793952,HOG,3751,"Motorcycles, Bicycles & Parts",Standard,sic du cik (defaut),non
+794323,LVLT,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+794367,M,5311,Retail-Department Stores,Standard,sic du cik (defaut),non
+795266,KBH,1531,Operative Builders,Standard,sic du cik (defaut),non
+796343,ADBE,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+797468,OXY,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+798354,FI,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+800240,ODP,5940,Retail-Miscellaneous Shopping Goods Stores,Standard,sic du cik (defaut),non
+800459,HAR,3651,Household Audio & Video Equipment,Standard,sic du cik (defaut),non
+801898,HPH,3532,Mining Machinery & Equip (No Oil & Gas Field Mach & Equip),Standard,sic du cik (defaut),non
+803014,CMVT,3661,Telephone & Telegraph Apparatus,Standard,sic du cik (defaut),non
+804055,CCE,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,sic du cik (defaut),non
+804212,ARG,5084,Wholesale-Industrial Machinery & Equipment,Standard,sic du cik (defaut),non
+804328,QCOM,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,sic du cik (defaut),non
+804753,CERN,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+808362,BHGE,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+808450,NAV,3711,Motor Vehicles & Passenger Car Bodies,Standard,sic du cik (defaut),non
+811156,CMS,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+811830,SOV,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+812074,OI,3221,Glass Containers,Standard,sic du cik (defaut),non
+813672,CDNS,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+813828,CBS,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+814453,NWL,3089,"Plastics Products, NEC",Standard,sic du cik (defaut),non
+814547,FICO,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+814585,MBI,6351,Surety Insurance,Assurance,sic du cik (regle sic),non
+815094,ABMD,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+815097,CCL,4400,Water Transportation,Standard,sic du cik (defaut),non
+815556,FAST,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,sic du cik (defaut),non
+816284,CELG,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+816761,TDC,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+818479,XRAY,3843,Dental Equipment & Supplies,Standard,sic du cik (defaut),non
+820027,AMP,6282,Investment Advice,Non applicable,"manuelle : AMP Ameriprise : assureur et gestionnaire, dette lue a 0, OCF contenant les flux des contrats",non
+820096,PRGO,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+820313,APH,3678,Electronic Connectors,Standard,sic du cik (defaut),non
+820318,COHR,3827,Optical Instruments & Lenses,Standard,sic du cik (defaut),non
+821189,EOG,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+822416,PHM,1531,Operative Builders,Standard,sic du cik (defaut),non
+823768,WM,4953,Refuse Systems,Standard,sic du cik (defaut),non
+826083,DELL,3571,Electronic Computers,Standard,sic du cik (defaut),non
+827052,EIX,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+827054,MCHP,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+829224,SBUX,5810,Retail-Eating & Drinking Places,Standard,sic du cik (defaut),non
+831001,C,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+831259,FCX,1000,Metal Mining,Cyclique,sic du cik (regle sic),non
+832101,IEX,3561,Pumps & Pumping Equipment,Standard,sic du cik (defaut),non
+832428,SSP,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+832988,SIG,5944,Retail-Jewelry Stores,Standard,sic du cik (defaut),non
+833444,JCI,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,sic du cik (defaut),non
+835729,BMC,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+836106,NVLS,3559,"Special Industry Machinery, NEC",Standard,sic du cik (defaut),non
+842023,TECH,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+849395,CRH,3241,"Cement, Hydraulic",Standard,sic du cik (defaut),non
+849399,GEN,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+850209,FL,5661,Retail-Shoe Stores,Standard,sic du cik (defaut),non
+850693,AGN,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+851968,MHK,2273,Carpets & Rugs,Standard,sic du cik (defaut),non
+857005,PTC,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+858339,HET,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+858470,COG,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+858877,CSCO,3576,Computer Communications Equipment,Standard,sic du cik (defaut),non
+859014,CPWR,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+859737,HOLX,3844,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,Standard,sic du cik (defaut),non
+860730,HCA,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,sic du cik (defaut),non
+860731,TYL,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+861878,SRCL,4955,Hazardous Waste Management,Standard,sic du cik (defaut),non
+863157,PETM,5990,"Retail-Retail Stores, NEC",Standard,sic du cik (defaut),non
+864328,BJS,1389,"Oil & Gas Field Services, NEC",Cyclique,sic du cik (regle sic),non
+864749,TRMB,3829,"Measuring & Controlling Devices, NEC",Standard,sic du cik (defaut),non
+865436,WFM,5411,Retail-Grocery Stores,Standard,sic du cik (defaut),non
+865752,MNST,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,sic du cik (defaut),non
+866374,FLEX,3672,Printed Circuit Boards,Standard,sic du cik (defaut),non
+866787,AZO,5531,Retail-Auto & Home Supply Stores,Standard,sic du cik (defaut),non
+868809,XTO,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+872589,REGN,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+873364,CEPH,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+874016,JNY,2330,"Women's, Misses':  and Juniors Outerwear",Standard,sic du cik (defaut),non
+874501,ABKFQ,6351,Surety Insurance,Assurance,sic du cik (regle sic),non
+874716,IDXX,2835,In Vitro & In Vivo Diagnostic Substances,Standard,sic du cik (defaut),non
+874761,AES,4991,Cogeneration Services & Small Power Producers,Standard,sic du cik (defaut),non
+874766,HIG,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+875045,BGEN,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+875159,XL,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+875320,VRTX,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+876437,MTG,6351,Surety Insurance,Assurance,sic du cik (regle sic),non
+877212,ZBRA,3560,General Industrial Machinery & Equipment,Standard,sic du cik (defaut),non
+877890,CTXS,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+878927,ODFL,4213,Trucking (No Local),Standard,sic du cik (defaut),non
+879101,KIM,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+879169,INCY,8731,Services-Commercial Physical & Biological Research,Standard,sic du cik (defaut),non
+879911,USHC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+880446,VTSS,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+882095,GILD,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+882184,DHI,1531,Operative Builders,Standard,sic du cik (defaut),non
+882835,ROP,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,sic du cik (defaut),non
+883241,SNPS,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+883569,FOSL,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Standard,sic du cik (defaut),non
+883980,FDC,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+884887,RCL,4400,Water Transportation,Standard,sic du cik (defaut),non
+884905,PX,2810,Industrial Inorganic Chemicals,Standard,sic du cik (defaut),non
+885639,KSS,5311,Retail-Department Stores,Standard,sic du cik (defaut),non
+885721,ESRX,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+885725,BSX,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+886158,BBBY,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Standard,sic du cik (defaut),non
+886982,GS,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+890801,MFE,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+891024,PDCO,5047,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",Standard,sic du cik (defaut),non
+891103,MTCH,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+894315,DDR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+895126,CHK,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+895421,DWD,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+895648,GGP,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+896159,CB,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+896878,INTU,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+897723,SANM,3672,Printed Circuit Boards,Standard,sic du cik (defaut),non
+898173,ORLY,5531,Retail-Auto & Home Supply Stores,Standard,sic du cik (defaut),non
+898293,JBL,3672,Printed Circuit Boards,Standard,sic du cik (defaut),non
+899051,ALL,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+899689,VNO,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+899866,ALXN,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+900075,CPRT,5500,Retail-Auto Dealers & Gasoline Stations,Standard,sic du cik (defaut),non
+906107,EQR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+906163,NVR,1531,Operative Builders,Standard,sic du cik (defaut),non
+906345,CPT,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+906709,NKTR,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+908255,BWA,3714,Motor Vehicle Parts & Accessories,Standard,sic du cik (defaut),non
+909832,COST,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+909954,GMCR,2090,Miscellaneous Food Preparations & Kindred Products,Standard,sic du cik (defaut),non
+910521,DECK,3021,Rubber & Plastics Footwear,Standard,sic du cik (defaut),non
+910606,REG,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+912093,VIAV,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+912242,MAC,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+912595,MAA,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+912615,URBN,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+912750,NFX,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+914208,IVZ,6282,Investment Advice,Standard,sic du cik (regle sic),non
+915389,EMN,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,sic du cik (defaut),non
+915912,AVB,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+915913,ALB,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,sic du cik (defaut),non
+916076,MLM,1400,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),Cyclique,sic du cik (regle sic),non
+916365,TSCO,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,sic du cik (defaut),non
+916457,CPNLQ,4911,Electric Services,Cyclique,manuelle : Calpine : producteur d'electricite non regule (prix de marche),non
+916863,TEG,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+918160,AKS,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,sic du cik (regle sic),non
+918386,QLGC,3576,Computer Communications Equipment,Standard,sic du cik (defaut),non
+920148,LH,8071,Services-Medical Laboratories,Standard,sic du cik (defaut),non
+920448,BVSN,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+920522,ESS,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+920760,LEN,1520,General Bldg Contractors - Residential Bldgs,Standard,sic du cik (defaut),non
+921738,PENN,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+921847,HCBK,6036,"Savings Institutions, Not Federally Chartered",Banque,sic du cik (regle sic),non
+922224,PPL,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+922621,ERIE,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+922864,AIV,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+927066,DVA,8090,"Services-Misc Health & Allied Services, NEC",Standard,sic du cik (defaut),non
+927628,COF,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+927653,MCK,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,sic du cik (defaut),non
+929887,APOL,8200,Services-Educational Services,Standard,sic du cik (defaut),non
+931336,DF,2020,Dairy Products,Standard,sic du cik (defaut),non
+933136,WAMUQ,6199,Finance Services,Banque,sic du cik (regle sic),oui
+934612,BNI,4011,"Railroads, Line-Haul Operating",Standard,sic du cik (defaut),non
+935703,DLTR,5331,Retail-Variety Stores,Standard,sic du cik (defaut),non
+936340,DTE,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+936395,CIEN,3661,Telephone & Telegraph Apparatus,Standard,sic du cik (defaut),non
+936468,LMT,3760,Guided Missiles & Space Vehicles & Parts,Standard,sic du cik (defaut),non
+940944,DRI,5812,Retail-Eating  Places,Standard,sic du cik (defaut),non
+941548,CAM,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+943452,WAB,3743,Railroad Equipment,Standard,sic du cik (defaut),non
+943819,RMD,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+945436,SUNEQ,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+945764,DNR,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+945841,POOL,5090,Wholesale-Misc Durable Goods,Standard,sic du cik (defaut),non
+946581,TTWO,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+947484,ACGL,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+949039,DO,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+1000180,SNDK,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+1000228,HSIC,5047,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",Standard,sic du cik (defaut),non
+1000697,WAT,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+1001039,DIS,7990,Services-Miscellaneous Amusement & Recreation,Standard,sic du cik (defaut),non
+1001082,DISH,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1001250,EL,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,sic du cik (defaut),non
+1001288,LXK,3570,Computer & office Equipment,Standard,sic du cik (defaut),non
+1002047,NTAP,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+1002910,AEE,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1004155,GAS,4924,Natural Gas Distribution,Regulee,sic du cik (regle sic),oui
+1004434,AMG,6282,Investment Advice,Standard,sic du cik (regle sic),non
+1004440,CEG,4911,Electric Services,Cyclique,manuelle : Constellation (ancien CIK) : producteur d'electricite non regule,non
+1004980,PCG,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1005414,TOY,5945,"Retail-Hobby, Toy & Game Shops",Standard,sic du cik (defaut),non
+1008654,TUP,3089,"Plastics Products, NEC",Standard,sic du cik (defaut),non
+1008817,SAPE,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+1009672,CRR,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Standard,sic du cik (defaut),non
+1010775,MIR,4911,Electric Services,Cyclique,manuelle : Mirant : producteur d'electricite non regule (prix de marche),non
+1011006,AABA,,,Standard,"manuelle : Yahoo / Altaba : SIC manquant ; Yahoo jusqu'en 2016 (activite internet), les annees Altaba (fonds) ne sont pas exploitables",non
+1011657,TIE,3341,Secondary Smelting & Refining of  Nonferrous Metals,Cyclique,sic du cik (regle sic),non
+1012100,SEE,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,sic du cik (defaut),non
+1013237,FDS,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1013462,ANSS,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1013871,NRG,4911,Electric Services,Cyclique,manuelle : NRG : producteur d'electricite non regule (prix de marche),non
+1014473,VRSN,7371,Services-Computer Programming Services,Standard,sic du cik (defaut),non
+1015780,ETFC,6035,"Savings Institution, Federally Chartered",Banque,sic du cik (regle sic),non
+1018724,AMZN,5961,Retail-Catalog & Mail-Order Houses,Standard,sic du cik (defaut),non
+1018840,ANF,5651,Retail-Family Clothing Stores,Standard,sic du cik (defaut),non
+1018963,ATI,3317,Steel Pipe & Tubes,Cyclique,sic du cik (regle sic),non
+1020416,MWW,7363,Services-Help Supply Services,Standard,sic du cik (defaut),non
+1020569,IRM,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1021860,NOV,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+1022079,DGX,8071,Services-Medical Laboratories,Standard,sic du cik (defaut),non
+1022671,STLD,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,sic du cik (regle sic),non
+1023291,TXU,4911,Electric Services,Cyclique,"manuelle : TXU / Energy Future Holdings : production non regulee, forte exposition aux prix du gaz",non
+1024305,COTY,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,sic du cik (defaut),non
+1024478,ROK,3829,"Measuring & Controlling Devices, NEC",Standard,sic du cik (defaut),non
+1024725,TEN,3714,Motor Vehicle Parts & Accessories,Standard,sic du cik (defaut),non
+1026214,FMCC,6111,Federal & Federally-Sponsored Credit Agencies,Banque,sic du cik (regle sic),non
+1031296,FE,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+1032033,SLM,6141,Personal Credit Institutions,Banque,sic du cik (regle sic),non
+1032208,SRE,4932,Gas & Other Services Combined,Regulee,sic du cik (regle sic),non
+1034054,SBAC,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1035002,VLO,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+1035267,ISRG,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+1035443,ARE,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1035983,FIX,1731,Electrical Work,Standard,sic du cik (defaut),non
+1037038,RL,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,sic du cik (defaut),non
+1037540,BXP,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1037646,MTD,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+1037868,AME,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,sic du cik (defaut),non
+1037949,Q,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+1038357,PXD,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1039101,LLL,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,sic du cik (defaut),non
+1039684,OKE,4923,Natural Gas Transmisison & Distribution,Regulee,sic du cik (regle sic),oui
+1040971,SLG,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1041061,YUM,5812,Retail-Eating  Places,Standard,sic du cik (defaut),non
+1042825,PWER,3679,"Electronic Components, NEC",Standard,sic du cik (defaut),non
+1043277,CHRW,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,sic du cik (defaut),non
+1043604,JNPR,3576,Computer Communications Equipment,Standard,sic du cik (defaut),non
+1045309,GRA,2800,Chemicals & Allied Products,Standard,sic du cik (defaut),non
+1045609,PLD,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1045810,NVDA,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1047122,RTN,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+1047862,ED,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1048286,MAR,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1048695,FFIV,3576,Computer Communications Equipment,Standard,sic du cik (defaut),non
+1048911,FDX,4513,Air Courier Services,Standard,sic du cik (defaut),non
+1050915,PWR,1731,Electrical Work,Standard,sic du cik (defaut),non
+1051470,CCI,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1053112,CVC,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1053507,AMT,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1054374,BRCM,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1054833,CVH,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1056288,FII,6282,Investment Advice,Standard,sic du cik (regle sic),non
+1057352,CSGP,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1058090,CMG,5812,Retail-Eating  Places,Standard,sic du cik (defaut),non
+1058290,CTSH,7371,Services-Computer Programming Services,Standard,sic du cik (defaut),non
+1059556,MCO,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,sic du cik (defaut),non
+1060391,RSG,4953,Refuse Systems,Standard,sic du cik (defaut),non
+1062047,CVG,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+1063761,SPG,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1064728,BTUUQ,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,sic du cik (regle sic),non
+1065088,EBAY,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1065280,NFLX,7841,Services-Video Tape Rental,Standard,sic du cik (defaut),non
+1065696,LKQ,5010,Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies,Standard,sic du cik (defaut),non
+1065865,JNS,6282,Investment Advice,Standard,sic du cik (regle sic),non
+1066107,EP,4922,Natural Gas Transmission,Regulee,sic du cik (regle sic),oui
+1067701,URI,7359,"Services-Equipment Rental & Leasing, NEC",Standard,sic du cik (defaut),non
+1067983,BRK.B,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+1069183,AXON,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Standard,sic du cik (defaut),non
+1069202,LII,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,sic du cik (defaut),non
+1070412,CNX,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1070750,HST,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1071739,CNC,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1073431,LIFE,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+1075531,BKNG,4700,Transportation Services,Standard,sic du cik (defaut),non
+1076405,PBG,2080,Beverages,Standard,sic du cik (defaut),non
+1086222,AKAM,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1087423,RHT,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1090012,DVN,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1090727,UPS,4210,Trucking & Courier Services (No Air),Standard,sic du cik (defaut),non
+1090872,A,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+1091667,CHTR,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1093557,DXCM,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+1094093,PGN,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+1094285,TDY,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+1095073,EG,6331,"Fire, Marine & Casualty Insurance",Assurance,sic du cik (regle sic),non
+1097149,ALGN,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+1097864,ON,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1099219,MET,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+1099800,EW,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+1100682,CRL,8731,Services-Commercial Physical & Biological Research,Standard,sic du cik (defaut),non
+1100962,ENDP,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1101215,ADS,6141,Personal Credit Institutions,Banque,sic du cik (regle sic),non
+1101239,EQIX,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1103982,MDLZ,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+1105705,TWX,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1108524,CRM,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1108827,QEP,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1109357,EXC,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1110783,MON,2870,Agricultural Chemicals,Standard,sic du cik (defaut),non
+1110803,ILMN,3826,Laboratory Analytical Instruments,Standard,sic du cik (defaut),non
+1111335,VSTNQ,3714,Motor Vehicle Parts & Accessories,Standard,sic du cik (defaut),non
+1111711,NI,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1111928,IPGP,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1113169,TROW,6282,Investment Advice,Standard,sic du cik (regle sic),non
+1115222,DNB,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,sic du cik (defaut),non
+1116132,TPR,3100,Leather & Leather Products,Standard,sic du cik (defaut),non
+1116521,AV,3661,Telephone & Telegraph Apparatus,Standard,sic du cik (defaut),non
+1120193,NDAQ,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,sic du cik (regle sic),non
+1121788,GRMN,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+1123360,GPN,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1124198,FLR,1600,Heavy Construction Other Than Bldg Const - Contractors,Standard,sic du cik (defaut),non
+1126328,PFG,6321,Accident & Health Insurance,Assurance,sic du cik (regle sic),non
+1130310,CNP,4911,Electric Services,Regulee,sic du cik (regle sic),oui
+1133421,NOC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,sic du cik (defaut),non
+1135152,FTI,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+1135971,POM,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1136869,ZBH,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+1136893,FIS,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1137411,COL,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Standard,sic du cik (defaut),non
+1137774,PRU,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+1137789,STX,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+1138118,CBRE,6500,Real Estate,Standard,sic du cik (regle sic),oui
+1140536,WLTW,6411,"Insurance Agents, Brokers & Service",Standard,sic du cik (regle sic),non
+1140859,ABC,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,sic du cik (defaut),non
+1141391,MA,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1141982,CBE,3670,Electronic Components & Accessories,Standard,sic du cik (defaut),non
+1144215,AYI,3640,Electric Lighting & Wiring Equipment,Standard,sic du cik (defaut),non
+1145197,PODD,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+1156039,ANTM,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1156375,CME,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,sic du cik (regle sic),non
+1158449,AAP,5531,Retail-Auto & Home Supply Stores,Standard,sic du cik (defaut),non
+1159297,MWV,2621,Paper Mills,Cyclique,sic du cik (regle sic),non
+1163165,COP,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+1163302,X,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,sic du cik (regle sic),non
+1163739,NBR,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+1164727,NEM,1040,Gold and Silver Ores,Cyclique,sic du cik (regle sic),non
+1166126,JCP,5311,Retail-Department Stores,Standard,sic du cik (defaut),non
+1166691,CMCSA,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1168054,XEC,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1169055,NE,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+1170010,KMX,5500,Retail-Auto Dealers & Gasoline Stations,Standard,sic du cik (defaut),non
+1170650,MHS,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+1171825,CITGQ,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+1174746,ICE,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,sic du cik (regle sic),non
+1174922,WYNN,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1175454,CPAY,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1176948,ARES,6282,Investment Advice,Non applicable,"manuelle : Ares : fonds consolides, revenue / EBIT / cash flow non comparables",non
+1179929,MOH,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1219601,CCK,3411,Metal Cans,Standard,sic du cik (defaut),non
+1260221,TDG,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Standard,sic du cik (defaut),non
+1262039,FTNT,3577,"Computer Peripheral Equipment, NEC",Standard,sic du cik (defaut),non
+1267238,AIZ,6399,"Insurance Carriers, NEC",Assurance,sic du cik (regle sic),non
+1274057,HSP,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1274494,FSLR,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1275283,RAI,2111,Cigarettes,Standard,sic du cik (defaut),non
+1276520,GNW,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+1278021,MKTX,6211,"Security Brokers, Dealers & Flotation Companies",Standard,"manuelle : MarketAxess : plateforme de negociation electronique, pas de bilan bancaire",non
+1279363,WCG,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1280452,MPWR,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1281761,RF,6021,National Commercial Banks,Banque,sic du cik (regle sic),non
+1282266,WIN,4813,Telephone Communications (No Radiotelephone),Standard,sic du cik (defaut),non
+1283699,TMUS,4812,Radiotelephone Communications,Standard,sic du cik (defaut),non
+1285785,MOS,2870,Agricultural Chemicals,Standard,sic du cik (defaut),non
+1286681,DPZ,5140,Wholesale-Groceries & Related Products,Standard,sic du cik (defaut),non
+1288776,GOOG,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1289490,EXR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1297996,DLR,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1300514,LVS,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1301063,ANRZQ,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,sic du cik (regle sic),non
+1305014,ASH,5160,Wholesale-Chemicals & Allied Products,Standard,sic du cik (defaut),non
+1306830,CE,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,sic du cik (defaut),non
+1308161,FOX,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1310067,SHLD,5311,Retail-Department Stores,Standard,sic du cik (defaut),non
+1316835,BLDR,5211,Retail-Lumber & Other Building Materials Dealers,Standard,sic du cik (defaut),non
+1318605,TSLA,3711,Motor Vehicles & Passenger Car Bodies,Standard,sic du cik (defaut),non
+1321655,PLTR,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1324404,CF,2870,Agricultural Chemicals,Standard,sic du cik (defaut),non
+1324424,EXPE,4700,Transportation Services,Standard,sic du cik (defaut),non
+1326160,DUK,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1326380,GME,5734,Retail-Computer & Computer Software Stores,Standard,sic du cik (defaut),non
+1326801,FB,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1327567,PANW,3577,"Computer Peripheral Equipment, NEC",Standard,sic du cik (defaut),non
+1327811,WDAY,7374,Services-Computer Processing & Data Preparation,Standard,sic du cik (defaut),non
+1335258,LYV,7900,Services-Amusement & Recreation Services,Standard,sic du cik (defaut),non
+1336917,UA,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Standard,sic du cik (defaut),non
+1336920,LDOS,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+1338749,PCH,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1339947,VIAB,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1341439,ORCL,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1352010,EPAM,7371,Services-Computer Programming Services,Standard,sic du cik (defaut),non
+1355001,H,6531,Real Estate Agents & Managers (For Others),Standard,sic du cik (regle sic),oui
+1358071,CXO,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1359841,HBI,5600,Retail-Apparel & Accessory Stores,Standard,sic du cik (defaut),non
+1361658,WYND,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1364742,BLK,6211,"Security Brokers, Dealers & Flotation Companies",Standard,"manuelle : BlackRock : gestionnaire d'actifs a etats financiers normaux, le SIC courtier-banque d'investissement ne convient pas",non
+1365135,WU,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1368007,NYX,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,sic du cik (regle sic),non
+1370637,ETSY,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1373715,NOW,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1373835,SE,4923,Natural Gas Transmisison & Distribution,Regulee,sic du cik (regle sic),oui
+1374310,CBOE,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,sic du cik (regle sic),non
+1375365,SMCI,3571,Electronic Computers,Standard,sic du cik (defaut),non
+1377013,TWC,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1378946,PBCT,6035,"Savings Institution, Federally Chartered",Banque,sic du cik (regle sic),non
+1379895,DYN,4911,Electric Services,Cyclique,manuelle : Dynegy : producteur d'electricite non regule (prix de marche),non
+1381197,IBKR,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+1383312,BR,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1385157,TEL,5065,"Wholesale-Electronic Parts & Equipment, NEC",Standard,sic du cik (defaut),non
+1385187,COV,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+1389170,TRGP,4922,Natural Gas Transmission,Regulee,sic du cik (regle sic),oui
+1390777,BK,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+1393052,VEEV,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1393311,PSA,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1393612,DFS,6141,Personal Credit Institutions,Banque,sic du cik (regle sic),non
+1393818,BX,6282,Investment Advice,Non applicable,"manuelle : Blackstone : fonds consolides, revenue / EBIT / cash flow non comparables",non
+1396009,VMC,1400,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),Cyclique,sic du cik (regle sic),non
+1397187,LULU,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Standard,sic du cik (defaut),non
+1399315,MI,6022,State Commercial Banks,Banque,sic du cik (regle sic),non
+1402057,CDW,5961,Retail-Catalog & Mail-Order Houses,Standard,sic du cik (defaut),non
+1403161,V,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1403568,ULTA,5990,"Retail-Retail Stores, NEC",Standard,sic du cik (defaut),non
+1404912,KKR,6282,Investment Advice,Non applicable,"manuelle : KKR : fonds consolides, revenue / EBIT / cash flow non comparables a une entreprise normale",non
+1408198,MSCI,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1410636,AWK,4941,Water Supply,Regulee,sic du cik (regle sic),non
+1413329,PM,2111,Cigarettes,Standard,sic du cik (defaut),non
+1413447,NXPI,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1415404,ECHO,4899,"Communications Services, NEC",Standard,sic du cik (defaut),non
+1418091,TWTR,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1418135,KDP,2080,Beverages,Standard,sic du cik (defaut),non
+1419612,SEDG,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1424847,LO,2111,Cigarettes,Standard,sic du cik (defaut),non
+1430602,SNI,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1437107,DISCA,4841,Cable & Other Pay Television Services,Standard,sic du cik (defaut),non
+1441634,AVGO,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1442145,VRSK,7374,Services-Computer Processing & Data Preparation,Standard,sic du cik (defaut),non
+1451505,RIG,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+1452575,MJN,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+1457543,CFN,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+1458891,NE,1381,Drilling Oil & Gas Wells,Cyclique,sic du cik (regle sic),non
+1463101,ENPH,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1466258,TT,3822,Auto Controls For Regulating Residential & Comml Environments,Standard,sic du cik (defaut),non
+1467373,ACN,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1467858,GM,3711,Motor Vehicles & Passenger Car Bodies,Standard,sic du cik (defaut),non
+1474735,GNRC,3621,Motors & Generators,Standard,sic du cik (defaut),non
+1478242,IQV,8731,Services-Commercial Physical & Biological Research,Standard,sic du cik (defaut),non
+1489393,LYB,2860,Industrial Organic Chemicals,Standard,sic du cik (defaut),non
+1491675,CCE,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,sic du cik (defaut),non
+1492633,NLSN,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1495569,MMI,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,sic du cik (defaut),non
+1496048,GGP,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1501585,HII,3730,Ship & Boat Building & Repairing,Standard,sic du cik (defaut),non
+1506307,KMI,4922,Natural Gas Transmission,Regulee,sic du cik (regle sic),oui
+1510295,MPC,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+1512673,XYZ,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1513761,NCLH,4400,Water Transportation,Standard,sic du cik (defaut),non
+1518832,WPX,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1519751,FBHS,2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Standard,sic du cik (defaut),non
+1521332,APTV,3714,Motor Vehicle Parts & Accessories,Standard,sic du cik (defaut),non
+1524472,XYL,3561,Pumps & Pumping Equipment,Standard,sic du cik (defaut),non
+1526520,TRIP,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1530721,CPRI,3100,Leather & Leather Products,Standard,sic du cik (defaut),non
+1532063,ESRX,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+1534701,PSX,2911,Petroleum Refining,Cyclique,sic du cik (regle sic),non
+1535527,CRWD,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1539838,FANG,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1543151,UBER,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1545158,KRFT,2000,Food and Kindred Products,Standard,sic du cik (defaut),non
+1546640,ADT,7381,"Services-Detective, Guard & Armored Car Services",Standard,sic du cik (defaut),non
+1551152,ABBV,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1551182,ETN,3590,Misc Industrial & Commercial Machinery & Equipment,Standard,sic du cik (defaut),non
+1555280,ZTS,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1559720,ABNB,7340,Services-To Dwellings & Other Buildings,Standard,sic du cik (defaut),non
+1561550,DDOG,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1564708,NWS,2711,Newspapers: Publishing or  Publishing & Printing,Standard,sic du cik (defaut),non
+1567892,MNK,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1571949,ICE,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Non applicable,"manuelle : ICE : chambres de compensation, la tresorerie publiee inclut les depots de marge de tiers (148 Md$ en 2021), la valeur d entreprise devient negative",non
+1571996,DELL,3571,Electronic Computers,Standard,sic du cik (defaut),non
+1578318,EVHC,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,sic du cik (defaut),non
+1578845,AGN,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1579241,ALLE,7381,"Services-Detective, Guard & Armored Car Services",Standard,sic du cik (defaut),non
+1585364,PRGO,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1585689,HLT,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1590895,CZR,7011,Hotels & Motels,Standard,sic du cik (defaut),non
+1590955,PAYC,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1593034,ENDP,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1593538,NAVI,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+1596532,ANET,3576,Computer Communications Equipment,Standard,sic du cik (defaut),non
+1596783,CTLT,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1598014,INFO,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1601046,KEYS,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,sic du cik (defaut),non
+1601712,SYF,6199,Finance Services,Banque,sic du cik (regle sic),oui
+1603923,WFT,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+1604778,QRVO,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1609711,GDDY,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+1613103,MDT,3845,Electromedical & Electrotherapeutic Apparatus,Standard,sic du cik (defaut),non
+1618921,WBA,5912,Retail-Drug Stores and Proprietary Stores,Standard,sic du cik (defaut),non
+1620546,BXLT,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1623613,MYL,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1629995,CPGX,4922,Natural Gas Transmission,Regulee,sic du cik (regle sic),oui
+1633917,PYPL,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1633978,LITE,3669,"Communications Equipment, NEC",Standard,sic du cik (defaut),non
+1636023,WRK,2650,Paperboard Containers & Boxes,Standard,sic du cik (defaut),non
+1637459,KHC,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,sic du cik (defaut),non
+1645590,HPE,3570,Computer & office Equipment,Standard,sic du cik (defaut),non
+1646383,CSRA,7373,Services-Computer Integrated Systems Design,Standard,sic du cik (defaut),non
+1649338,AVGO,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1650132,FCPT,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1652044,GOOG,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1659166,FTV,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,sic du cik (defaut),non
+1666700,DD,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,sic du cik (defaut),non
+1671933,TTD,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1674101,VRT,3679,"Electronic Components, NEC",Standard,sic du cik (defaut),non
+1678531,EVHC,8011,Services-Offices & Clinics of  Doctors of  Medicine,Standard,sic du cik (defaut),non
+1679273,LW,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,sic du cik (defaut),non
+1679788,COIN,6199,Finance Services,Banque,sic du cik (regle sic),oui
+1681459,FTI,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+1682852,MRNA,2836,"Biological Products, (No Diagnostic Substances)",Standard,sic du cik (defaut),non
+1685040,BHF,6311,Life Insurance,Assurance,sic du cik (regle sic),non
+1687229,INVH,6510,Real Estate Operators (No Developers) & Lessors,Standard,sic du cik (regle sic),oui
+1688568,DXC,7374,Services-Computer Processing & Data Preparation,Standard,sic du cik (defaut),non
+1690820,CVNA,5500,Retail-Auto Dealers & Gasoline Stations,Standard,sic du cik (defaut),non
+1692819,VST,4911,Electric Services,Cyclique,manuelle : Vistra : producteur d'electricite non regule (prix de marche),non
+1699150,IR,3560,General Industrial Machinery & Equipment,Standard,sic du cik (defaut),non
+1701605,BHGE,3533,Oil & Gas Field Machinery & Equipment,Standard,sic du cik (defaut),non
+1705696,VICI,6798,Real Estate Investment Trusts,Fonciere,sic du cik (regle sic),oui
+1707925,LIN,2810,Industrial Inorganic Chemicals,Standard,sic du cik (defaut),non
+1711269,EVRG,4931,Electric & Other Services Combined,Regulee,sic du cik (regle sic),non
+1713445,RDDT,7374,Services-Computer Processing & Data Preparation,Standard,sic du cik (defaut),non
+1725057,CDAY,7372,Services-Prepackaged Software,Standard,sic du cik (defaut),non
+1730168,AVGO,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1732845,WRK,2650,Paperboard Containers & Boxes,Standard,sic du cik (defaut),non
+1739940,CI,6324,Hospital & Medical Service Plans,Assurance,sic du cik (regle sic),non
+1744489,DIS,7990,Services-Miscellaneous Amusement & Recreation,Standard,sic du cik (defaut),non
+1748790,AMCR,3990,Miscellaneous Manufacturing Industries,Standard,sic du cik (defaut),non
+1751008,APP,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1751788,DOW,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,sic du cik (defaut),non
+1754301,FOX,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+1755672,CTVA,100,Agricultural Production-Crops,Standard,sic du cik (defaut),non
+1757898,STE,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,sic du cik (defaut),non
+1770450,XRX,3577,"Computer Peripheral Equipment, NEC",Standard,sic du cik (defaut),non
+1781335,OTIS,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,sic du cik (defaut),non
+1783180,CARR,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,sic du cik (defaut),non
+1783879,HOOD,6211,"Security Brokers, Dealers & Flotation Companies",Banque,sic du cik (regle sic),oui
+1786842,VNT,3824,Totalizing Fluid Meters & Counting Devices,Standard,sic du cik (defaut),non
+1792044,VTRS,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1792789,DASH,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+1800227,IAC,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,sic du cik (defaut),non
+1811074,TPL,6792,Oil Royalty Traders,Standard,sic du cik (defaut),non
+1821825,OGN,2834,Pharmaceutical Preparations,Standard,sic du cik (defaut),non
+1835632,MRVL,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+1841666,APA,1311,Crude Petroleum & Natural Gas,Cyclique,sic du cik (regle sic),non
+1858681,APO,6282,Investment Advice,Non applicable,"manuelle : Apollo : fonds consolides, revenue / EBIT / cash flow non comparables",non
+1868275,CEG,4911,Electric Services,Cyclique,manuelle : Constellation : producteur d'electricite non regule (prix de marche),non
+1932393,GEHC,3844,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,Standard,sic du cik (defaut),non
+1944048,KVUE,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,sic du cik (defaut),non
+1964738,SOLV,3841,Surgical & Medical Instruments & Apparatus,Standard,sic du cik (defaut),non
+1967680,VLTO,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Standard,sic du cik (defaut),non
+1973266,TKO,7900,Services-Amusement & Recreation Services,Standard,sic du cik (defaut),non
+1996810,GEV,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,sic du cik (defaut),non
+1996862,BG,2070,Fats & Oils,Standard,sic du cik (defaut),non
+2005951,SW,2650,Paperboard Containers & Boxes,Standard,sic du cik (defaut),non
+2011286,AMTM,7389,"Services-Business Services, NEC",Standard,sic du cik (defaut),non
+2011641,FERG,5070,Wholesale-Hardware & Plumbing & Heating Equipment & Supplies,Standard,sic du cik (defaut),non
+2012383,BLK,6211,"Security Brokers, Dealers & Flotation Companies",Standard,manuelle : BlackRock (nouveau CIK) : meme raison,non
+2023554,SNDK,3572,Computer Storage Devices,Standard,sic du cik (defaut),non
+2041610,PSKY,4833,Television Broadcasting Stations,Standard,sic du cik (defaut),non
+2058873,Q,3674,Semiconductors & Related Devices,Standard,sic du cik (defaut),non
+2064953,SOLS,2800,Chemicals & Allied Products,Standard,sic du cik (defaut),non
+2082247,FDXF,4513,Air Courier Services,Standard,sic du cik (defaut),non
