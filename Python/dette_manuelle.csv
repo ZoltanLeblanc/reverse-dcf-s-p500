@@ -1,0 +1,58 @@
+cik,annee,long_term_debt,current_debt,source
+75362,2025,10646800000,4989500000,10-K PACCAR bilan (Financial Services : term notes / commercial paper et bank loans) lu le 2026-10-28
+75362,2024,9891200000,6003800000,10-K PACCAR bilan lu le 2026-10-28
+865752,2025,0,0,10-K Monster bilan : aucune ligne de dette lu le 2026-10-28
+71691,2025,0,0,10-K New York Times bilan : aucune ligne de dette lu le 2026-10-28
+71691,2024,0,0,10-K New York Times bilan : aucune ligne de dette lu le 2026-10-28
+1111928,2025,0,0,10-K IPG Photonics bilan : aucune ligne de dette lu le 2026-10-28
+1111928,2024,0,0,10-K IPG Photonics bilan : aucune ligne de dette lu le 2026-10-28
+1671933,2025,0,0,10-K Trade Desk bilan : aucune ligne de dette (baux d'exploitation seulement) lu le 2026-10-28
+1671933,2024,0,0,10-K Trade Desk bilan : aucune ligne de dette (baux d'exploitation seulement) lu le 2026-10-28
+906163,2025,909160000,0,10-K NVR bilan : senior notes Home Building lu le 2026-10-28
+906163,2024,911118000,0,10-K NVR bilan : senior notes Home Building lu le 2026-10-28
+1590955,2025,0,0,10-K Paycom bilan : aucune ligne de dette lu le 2026-10-28
+1590955,2024,0,0,10-K Paycom bilan : aucune ligne de dette lu le 2026-10-28
+315213,2025,0,0,10-K Robert Half bilan : aucune ligne de dette lu le 2026-10-28
+315213,2024,0,0,10-K Robert Half bilan : aucune ligne de dette lu le 2026-10-28
+910521,2026,0,0,10-K Deckers bilan (mars 2026) : aucune ligne de dette lu le 2026-10-28
+910521,2025,0,0,10-K Deckers bilan (mars 2025) : aucune ligne de dette lu le 2026-10-28
+832988,2026,0,0,10-K Signet bilan (jan 2026) : aucune ligne de dette lu le 2026-10-28
+832988,2025,0,0,10-K Signet bilan (fev 2025) : aucune ligne de dette lu le 2026-10-28
+2023554,2026,0,0,10-K Sandisk bilan (juil 2026) : dette courante et long terme a 0 lu le 2026-10-28
+719955,2026,0,0,10-K Williams-Sonoma bilan : aucune ligne de dette lu le 2026-10-28
+719955,2025,0,0,10-K Williams-Sonoma bilan : aucune ligne de dette lu le 2026-10-28
+912615,2026,0,0,10-K Urban Outfitters bilan : aucune ligne de dette lu le 2026-10-28
+912615,2025,0,0,10-K Urban Outfitters bilan : aucune ligne de dette lu le 2026-10-28
+1341439,2025,85297000000,7271000000,"10-K Oracle bilan : Notes payable and other borrowings non-current / current lu le 2026-10-29 (WebFetch, a verifier a la main)"
+1341439,2026,122342000000,7199000000,"10-K Oracle bilan : Notes payable and other borrowings non-current / current lu le 2026-10-29 (WebFetch, a verifier a la main)"
+874761,2025,26786000000,2232000000,"10-K AES bilan : recourse debt 5105 + non-recourse debt 21681 (long terme), non-recourse courant 2232 lu le 2026-10-29 (WebFetch, a verifier a la main)"
+874761,2024,25431000000,2688000000,"10-K AES bilan : recourse debt 4805 + non-recourse debt 20626 (long terme), non-recourse courant 2688 lu le 2026-10-29 (WebFetch, a verifier a la main)"
+1018840,2025,0,0,"10-K Abercrombie bilan : emprunts long terme a 0 au 1er fevrier 2025 lu le 2026-10-29 (WebFetch, a verifier a la main)"
+912615,2024,0,0,"10-K Urban Outfitters bilan : aucune ligne de dette (hors loyers) lu le 2026-10-29 (WebFetch, a verifier a la main)"
+883241,2024,15601000,0,"10-K Synopsys bilan : Long-term debt 15601 milliers, pas de dette courante lu le 2026-10-29 (WebFetch, a verifier a la main)"
+779152,2025,0,0,"10-K Jack Henry bilan : dette courante et long terme a 0 au 30 juin 2025 lu le 2026-10-29 (WebFetch, a verifier a la main)"
+75362,2023,8624600000,5609900000,"10-K PACCAR bilan Financial Services : term notes / commercial paper et bank loans lu le 2026-10-29 (WebFetch, a verifier a la main)"
+75362,2022,7866700000,3604900000,"10-K PACCAR bilan Financial Services : term notes / commercial paper et bank loans lu le 2026-10-29 (WebFetch, a verifier a la main)"
+906163,2023,913027000,0,"10-K NVR bilan : Senior notes (Home Building) lu le 2026-10-29 (WebFetch, a verifier a la main)"
+906163,2022,914888000,0,"10-K NVR bilan : Senior notes (Home Building) lu le 2026-10-29 (WebFetch, a verifier a la main)"
+920760,2023,2816482000,0,"10-K Lennar bilan : Senior notes and other debts payable, net (Homebuilding) lu le 2026-10-29 (WebFetch, a verifier a la main)"
+920760,2022,4047294000,0,"10-K Lennar bilan : Senior notes and other debts payable, net (Homebuilding) lu le 2026-10-29 (WebFetch, a verifier a la main)"
+75362,2010,2880800000,2395200000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+75362,2011,2745500000,3909900000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+75362,2012,4317400000,3562700000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+75362,2013,5765300000,2658900000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+75362,2014,5588700000,2641900000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+75362,2015,5795000000,2796500000,10-K PACCAR bilan : Financial Services term notes + dette Truck long terme / commercial paper et bank loans + dette Truck courante lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2010,9343000,90338000,10-K NVR bilan : other term debt + non-recourse VIE long terme / note payable Mortgage Banking lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2016,596455000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2017,597066000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2018,597681000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2019,598301000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2020,1517395000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+906163,2021,1516255000,0,10-K NVR bilan : Senior notes Home Building lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2010,3880456000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2011,4128300000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2012,4579531000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2013,4650173000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2014,5278343000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
+920760,2015,5796858000,0,10-K Lennar bilan : Senior notes and other debts payable (Homebuilding + Rialto + Multifamily) lu le 2026-10-29 (WebFetch ; a verifier a la main)
