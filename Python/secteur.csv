@@ -1,0 +1,748 @@
+cik,ticker,sic,sic_description,categorie,bloc,source
+1800,ABT,2834,Pharmaceutical Preparations,Standard,Sante,sic
+2488,AMD,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+2969,APD,2810,Industrial Inorganic Chemicals,Standard,Matieres et energie,sic
+4127,SWKS,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+4281,ARNC,3350,Rolling Drawing & Extruding of  Nonferrous Metals,Cyclique,Matieres et energie,sic
+4447,HES,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+5133,AM,2771,Greeting Cards,Standard,Telecom et medias,sic
+6201,AAL,4512,"Air Transportation, Scheduled",Cyclique,Industrie et transport,sic
+6281,ADI,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+6769,APA,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+6951,AMAT,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+7084,ADM,2070,Fats & Oils,Standard,Conso de base,sic
+7332,SWN,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+7431,ACKH,3089,"Plastics Products, NEC",Standard,Conso discretionnaire,sic
+8670,ADP,7374,Services-Computer Processing & Data Preparation,Standard,Logiciels et services IT,sic
+8818,AVY,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,Matieres et energie,sic
+8868,AVP,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,Conso de base,sic
+9389,BALL,3411,Metal Cans,Standard,Industrie et transport,sic
+9892,BCR,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+10456,BAX,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+10795,BDX,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+11199,BMS,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,Matieres et energie,sic
+12208,BIO,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+12659,HRB,7200,Services-Personal Services,Standard,Conso discretionnaire,sic
+12927,BA,3721,Aircraft,Standard,Industrie et transport,sic
+12978,OMX,5110,Wholesale-Paper & Paper Products,Standard,Industrie et transport,sic
+14195,BGG,3510,Engines & Turbines,Standard,Industrie et transport,sic
+14272,BMY,2834,Pharmaceutical Preparations,Standard,Sante,sic
+14693,BF.B,2080,Beverages,Standard,Conso de base,sic
+14707,CAL,3140,"Footwear, (No Rubber)",Standard,Conso discretionnaire,sic
+14930,BC,3510,Engines & Turbines,Standard,Industrie et transport,sic
+16099,LUB,5812,Retail-Eating  Places,Standard,Conso discretionnaire,sic
+16732,CPB,2000,Food and Kindred Products,Standard,Conso de base,sic
+16918,STZ,2080,Beverages,Standard,Conso de base,sic
+18230,CAT,3531,Construction Machinery & Equip,Standard,Industrie et transport,sic
+18926,CTL,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+19353,CHRS,5621,Retail-Women's Clothing Stores,Standard,Conso discretionnaire,sic
+20520,FTR,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+21076,CLX,2842,"Specialty Cleaning, Polishing and Sanitation Preparations",Standard,Conso de base,sic
+21344,KO,2080,Beverages,Standard,Conso de base,sic
+21665,CL,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,Conso de base,sic
+23082,DXC,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+23217,CAG,2000,Food and Kindred Products,Standard,Conso de base,sic
+23666,HSH,2000,Food and Kindred Products,Standard,Conso de base,sic
+23675,CNW,4213,Trucking (No Local),Standard,Industrie et transport,sic
+24491,CTB,3011,Tires & Inner Tubes,Standard,Conso discretionnaire,sic
+24545,TAP,2082,Malt Beverages,Standard,Conso de base,sic
+24741,GLW,3357,Drawing & Insulating of  Nonferrous Wire,Cyclique,Matieres et energie,sic
+25445,CR,3490,Miscellaneous Fabricated Metal Products,Standard,Industrie et transport,sic
+26172,CMI,3510,Engines & Turbines,Standard,Industrie et transport,sic
+26780,DCNAQ,3714,Motor Vehicle Parts & Accessories,Standard,Conso discretionnaire,sic
+27419,TGT,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+27904,DAL,4512,"Air Transportation, Scheduled",Cyclique,Industrie et transport,sic
+27996,DLX,2780,"Blankbooks, Looseleaf Binders & Bookbindg & Relatd Work",Standard,Telecom et medias,sic
+28917,DDS,5311,Retail-Department Stores,Standard,Conso discretionnaire,sic
+29534,DG,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+29669,RRD,2750,Commercial Printing,Standard,Telecom et medias,sic
+29905,DOV,3530,"Construction, Mining & Materials Handling Machinery & Equip",Standard,Industrie et transport,sic
+29915,DOW,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,Matieres et energie,sic
+29989,OMC,7311,Services-Advertising Agencies,Standard,Industrie et transport,sic
+30554,DD,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,Matieres et energie,sic
+30625,FLS,3561,Pumps & Pumping Equipment,Standard,Industrie et transport,sic
+30697,WEN,5810,Retail-Eating & Drinking Places,Standard,Conso discretionnaire,sic
+31235,EKDKQ,3861,Photographic Equipment & Supplies,Standard,Conso discretionnaire,sic
+31277,ETN,3590,Misc Industrial & Commercial Machinery & Equipment,Standard,Industrie et transport,sic
+31462,ECL,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,Conso de base,sic
+31791,PKI,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+32604,EMR,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,Industrie et transport,sic
+33185,EFX,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,Industrie et transport,sic
+33213,EQT,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+34088,XOM,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+34408,FDO,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+37748,MEE,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,Matieres et energie,sic
+37785,FMC,2800,Chemicals & Allied Products,Standard,Matieres et energie,sic
+38074,FRX,2834,Pharmaceutical Preparations,Standard,Sante,sic
+38777,BEN,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+39899,TGNA,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+39911,GPS,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+40533,GD,3730,Ship & Boat Building & Repairing,Standard,Industrie et transport,sic
+40545,GE,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,Industrie et transport,sic
+40704,GIS,2040,Grain Mill Products,Standard,Conso de base,sic
+40730,MTLQQ,3711,Motor Vehicles & Passenger Car Bodies,Standard,Conso discretionnaire,sic
+40987,GPC,5013,Wholesale-Motor Vehicle Supplies & New Parts,Standard,Industrie et transport,sic
+42542,GR,3760,Guided Missiles & Space Vehicles & Parts,Standard,Conso discretionnaire,sic
+42582,GT,3011,Tires & Inner Tubes,Standard,Conso discretionnaire,sic
+45012,HAL,1389,"Oil & Gas Field Services, NEC",Cyclique,Matieres et energie,sic
+46080,HAS,3944,"Games, Toys & Children's Vehicles (No Dolls & Bicycles)",Standard,Conso discretionnaire,sic
+46640,HNZ,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,Conso de base,sic
+46765,HP,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+47111,HSY,2060,Sugar & Confectionery Products,Standard,Conso de base,sic
+47217,HPQ,3570,Computer & office Equipment,Standard,Materiel tech et semi-conducteurs,sic
+48039,HFC,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+48465,HRL,2011,Meat Packing Plants,Standard,Conso de base,sic
+48898,HUBB,3670,Electronic Components & Accessories,Standard,Materiel tech et semi-conducteurs,sic
+49826,ITW,3560,General Industrial Machinery & Equipment,Standard,Industrie et transport,sic
+50104,ANDV,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+50863,INTC,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+51143,IBM,3570,Computer & office Equipment,Standard,Materiel tech et semi-conducteurs,sic
+51253,IFF,2860,Industrial Organic Chemicals,Standard,Matieres et energie,sic
+51434,IP,2621,Paper Mills,Cyclique,Matieres et energie,sic
+51644,IPG,7311,Services-Advertising Agencies,Standard,Industrie et transport,sic
+52988,J,1600,Heavy Construction Other Than Bldg Const - Contractors,Standard,Industrie et transport,sic
+54480,KSU,4011,"Railroads, Line-Haul Operating",Standard,Industrie et transport,sic
+55067,K,2040,Grain Mill Products,Standard,Conso de base,sic
+55785,KMB,2670,Converted Paper & Paperboard Prods (No Contaners/Boxes),Standard,Matieres et energie,sic
+56873,KR,5411,Retail-Grocery Stores,Standard,Conso de base,sic
+58492,LEG,2510,Household Furniture,Standard,Conso discretionnaire,sic
+59478,LLY,2834,Pharmaceutical Preparations,Standard,Sante,sic
+60519,LPX,2400,Lumber & Wood Products (No Furniture),Standard,Matieres et energie,sic
+60667,LOW,5211,Retail-Lumber & Other Building Materials Dealers,Standard,Conso discretionnaire,sic
+61986,MTW,3531,Construction Machinery & Equip,Standard,Industrie et transport,sic
+62709,MMC,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+62996,MAS,3430,"Heating Equip, Except Elec & Warm Air; & Plumbing Fixtures",Standard,Industrie et transport,sic
+63276,MAT,3942,Dolls & Stuffed Toys,Standard,Conso discretionnaire,sic
+63754,MKC,2090,Miscellaneous Food Preparations & Kindred Products,Standard,Conso de base,sic
+63908,MCD,5812,Retail-Eating  Places,Standard,Conso discretionnaire,sic
+64040,SPGI,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,Industrie et transport,sic
+64670,MDT,3845,Electromedical & Electrotherapeutic Apparatus,Standard,Sante,sic
+64803,CVS,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+64978,MRK,2834,Pharmaceutical Preparations,Standard,Sante,sic
+65011,MDP,2721,Periodicals: Publishing or  Publishing & Printing,Standard,Telecom et medias,sic
+66740,MMM,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+67472,MOLX,3678,Electronic Connectors,Standard,Materiel tech et semi-conducteurs,sic
+68505,MSI,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+69499,MYL,2834,Pharmaceutical Preparations,Standard,Sante,sic
+70318,THC,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,Sante,sic
+70530,NSM,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+70866,NCR,3578,Calculating & Accounting Machines (No Electronic Computers),Standard,Materiel tech et semi-conducteurs,sic
+71691,NYT,2711,Newspapers: Publishing or  Publishing & Printing,Standard,Telecom et medias,sic
+72207,NBL,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+72331,NDSN,3569,"General Industrial Machinery & Equipment, NEC",Standard,Industrie et transport,sic
+72333,JWN,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+72911,NRTLQ,3661,Telephone & Telegraph Apparatus,Standard,Materiel tech et semi-conducteurs,sic
+73309,NUE,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,Matieres et energie,sic
+75362,PCAR,3711,Motor Vehicles & Passenger Car Bodies,Standard,Conso discretionnaire,sic
+75677,PKG,2650,Paperboard Containers & Boxes,Standard,Matieres et energie,sic
+75829,PLL,3569,"General Industrial Machinery & Equipment, NEC",Standard,Industrie et transport,sic
+76334,PH,3490,Miscellaneous Fabricated Metal Products,Standard,Industrie et transport,sic
+77360,PNR,3550,Special Industry Machinery (No Metalworking Machinery),Standard,Industrie et transport,sic
+77449,PBY,5531,Retail-Auto & Home Supply Stores,Standard,Conso discretionnaire,sic
+77476,PEP,2080,Beverages,Standard,Conso de base,sic
+78003,PFE,2834,Pharmaceutical Preparations,Standard,Sante,sic
+78239,PVH,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,Luxe,manuel : PVH : classement manuel (le SIC seul ne convient pas)
+78814,PBI,3579,"Office Machines, NEC",Standard,Materiel tech et semi-conducteurs,sic
+78890,BCO,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,Industrie et transport,sic
+79282,BRO,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+79879,PPG,2851,"Paints, Varnishes, Lacquers, Enamels & Allied Prods",Standard,Matieres et energie,sic
+79958,PCP,3320,Iron & Steel Foundries,Cyclique,Matieres et energie,sic
+80424,PG,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,Conso de base,sic
+84129,RAD,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+84839,ROL,7340,Services-To Dwellings & Other Buildings,Standard,Industrie et transport,sic
+85408,RDC,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+85961,R,7510,Services-Auto Rental & Leasing (No Drivers),Standard,Conso discretionnaire,sic
+86144,SWY,5411,Retail-Grocery Stores,Standard,Conso de base,sic
+87347,SLB,1389,"Oil & Gas Field Services, NEC",Cyclique,Matieres et energie,sic
+89089,SCI,7200,Services-Personal Services,Standard,Conso discretionnaire,sic
+89800,SHW,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,Conso discretionnaire,sic
+90185,SIAL,5160,Wholesale-Chemicals & Allied Products,Standard,Conso de base,sic
+91142,AOS,3630,Household Appliances,Standard,Conso discretionnaire,sic
+91419,SJM,2033,"Canned, Fruits, Veg, Preserves, Jams & Jellies",Standard,Conso de base,sic
+91440,SNA,3420,"Cutlery, Handtools & General Hardware",Standard,Industrie et transport,sic
+92380,LUV,4512,"Air Transportation, Scheduled",Cyclique,Industrie et transport,sic
+93410,CVX,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+93556,SWK,3420,"Cutlery, Handtools & General Hardware",Standard,Industrie et transport,sic
+95304,SUN,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+95521,SVU,5141,"Wholesale-Groceries, General Line",Standard,Conso de base,sic
+96021,SYY,5140,Wholesale-Groceries & Related Products,Standard,Conso de base,sic
+96289,RSHCQ,5731,"Retail-Radio, Tv & Consumer Electronics Stores",Standard,Conso discretionnaire,sic
+96943,TFX,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+97210,TER,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Standard,Sante,sic
+97216,TEX,3537,"Industrial Trucks, Tractors, Trailors & Stackers",Standard,Industrie et transport,sic
+97476,TXN,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+97745,TMO,3829,"Measuring & Controlling Devices, NEC",Standard,Sante,sic
+97854,TNB,3640,Electric Lighting & Wiring Equipment,Standard,Industrie et transport,sic
+98246,TIF,5944,Retail-Jewelry Stores,Standard,Luxe,manuel : TIF : classement manuel (le SIC seul ne convient pas)
+98362,TKR,3562,Ball & Roller Bearings,Standard,Industrie et transport,sic
+100493,TSN,2015,Poultry Slaughtering and Processing,Standard,Conso de base,sic
+100517,UAL,4512,"Air Transportation, Scheduled",Cyclique,Industrie et transport,sic
+100790,UK,2860,Industrial Organic Chemicals,Standard,Matieres et energie,sic
+100885,UNP,4011,"Railroads, Line-Haul Operating",Standard,Industrie et transport,sic
+101778,MRO,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+101829,RTX,3724,Aircraft Engines & Engine Parts,Standard,Industrie et transport,sic
+101830,PCS,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+103379,VFC,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,Conso discretionnaire,sic
+104169,WMT,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+104207,WBA,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+104889,GHC,8200,Services-Educational Services,Standard,Conso discretionnaire,sic
+105634,EME,1731,Electrical Work,Standard,Industrie et transport,sic
+105770,WST,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+106040,WDC,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+106640,WHR,3630,Household Appliances,Standard,Conso discretionnaire,manuel : WHR : classement manuel (le SIC seul ne convient pas)
+108516,WOR,3310,"Steel Works, Blast Furnaces & Rolling & Finishing Mills",Cyclique,Matieres et energie,sic
+108772,XRX,3577,"Computer Peripheral Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+109198,TJX,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+109758,CEN,8700,"Services-Engineering, Accounting, Research, Management",Standard,Industrie et transport,sic
+200406,JNJ,2834,Pharmaceutical Preparations,Standard,Sante,sic
+202058,HRS,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+203077,STJ,3845,Electromedical & Electrotherapeutic Apparatus,Standard,Sante,sic
+203527,VAR,3845,Electromedical & Electrotherapeutic Apparatus,Standard,Sante,sic
+216228,ITT,3561,Pumps & Pumping Equipment,Standard,Industrie et transport,sic
+217346,TXT,3720,Aircraft & Parts,Standard,Industrie et transport,sic
+230211,FDX,4513,Air Courier Services,Standard,Industrie et transport,sic
+277135,GWW,5000,Wholesale-Durable Goods,Standard,Industrie et transport,sic
+277948,CSX,4011,"Railroads, Line-Haul Operating",Standard,Industrie et transport,sic
+310158,MRK,2834,Pharmaceutical Preparations,Standard,Sante,sic
+310764,SYK,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+313616,DHR,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,Sante,sic
+313927,CHD,2840,"Soap, Detergents, Cleang Preparations, Perfumes, Cosmetics",Standard,Conso de base,sic
+314808,ESV,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+315189,DE,3523,Farm Machinery & Equipment,Standard,Industrie et transport,sic
+315213,RHI,7363,Services-Help Supply Services,Standard,Industrie et transport,sic
+315293,AON,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+315852,RRC,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+316206,HOT,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+317771,TLAB,3661,Telephone & Telegraph Apparatus,Standard,Materiel tech et semi-conducteurs,sic
+318154,AMGN,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+319201,KLAC,3827,Optical Instruments & Lenses,Standard,Sante,sic
+320187,NKE,3021,Rubber & Plastics Footwear,Standard,Conso discretionnaire,sic
+320193,AAPL,3571,Electronic Computers,Standard,Materiel tech et semi-conducteurs,sic
+350698,AN,5500,Retail-Auto Dealers & Gasoline Stations,Standard,Conso discretionnaire,sic
+351346,BMET,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+352363,KATE,2330,"Women's, Misses':  and Juniors Outerwear",Standard,Conso discretionnaire,sic
+352915,UHS,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,Sante,sic
+353944,IGT,3990,Miscellaneous Manufacturing Industries,Standard,Industrie et transport,sic
+354190,AJG,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+354908,FLIR,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+354950,HD,5211,Retail-Lumber & Other Building Materials Dealers,Standard,Conso discretionnaire,sic
+356028,CA,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+701985,BBWI,5990,"Retail-Retail Stores, NEC",Standard,Conso de base,sic
+702165,NSC,4011,"Railroads, Line-Haul Operating",Standard,Industrie et transport,sic
+703360,LSI,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+704051,LM,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+707549,LRCX,3559,"Special Industry Machinery, NEC",Standard,Industrie et transport,sic
+708819,MDR,3443,Fabricated Plate Work (Boiler Shops),Standard,Industrie et transport,sic
+709804,SXCL,1389,"Oil & Gas Field Services, NEC",Cyclique,Matieres et energie,sic
+711065,AMCC,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+711404,COO,3851,Ophthalmic Goods,Standard,Sante,sic
+712515,EA,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+716006,YRCW,4213,Trucking (No Local),Standard,Industrie et transport,sic
+716133,CBB,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+717423,MUR,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+718877,ATVI,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+719955,WSM,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Standard,Conso discretionnaire,sic
+721083,SII,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+721371,CAH,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,Sante,sic
+721683,TSS,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : TSS : classement manuel (le SIC seul ne convient pas)
+723125,MU,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+723254,CTAS,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,Conso discretionnaire,sic
+723531,PAYX,8700,"Services-Engineering, Accounting, Research, Management",Standard,Industrie et transport,sic
+723612,CAR,7510,Services-Auto Rental & Leasing (No Drivers),Standard,Conso discretionnaire,sic
+726513,TRB,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+726958,CASY,5500,Retail-Auto Dealers & Gasoline Stations,Standard,Conso discretionnaire,sic
+728535,JBHT,4213,Trucking (No Local),Standard,Industrie et transport,sic
+730464,ATGE,8200,Services-Educational Services,Standard,Conso discretionnaire,sic
+731939,TIN,2631,Paperboard Mills,Cyclique,Matieres et energie,sic
+732485,GENZ,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+732712,VZ,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+732717,T,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+743316,MXIM,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+743988,XLNX,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+745732,ROST,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+746515,EXPD,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,Industrie et transport,sic
+746838,UIS,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+749251,IT,8741,Services-Management Services,Standard,Industrie et transport,sic
+758004,NOVL,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+764065,CLF,1000,Metal Mining,Cyclique,Matieres et energie,sic
+764180,MO,2111,Cigarettes,Standard,Conso de base,sic
+764478,BBY,5731,"Retail-Radio, Tv & Consumer Electronics Stores",Standard,Conso discretionnaire,sic
+766421,ALK,4512,"Air Transportation, Scheduled",Cyclique,Industrie et transport,sic
+767920,PMCS,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+768251,ALTR,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+768835,BIG,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+769397,ADSK,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+773840,HON,3724,Aircraft Engines & Engine Parts,Standard,Industrie et transport,sic
+773910,APC,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+779152,JKHY,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+785161,EHC,8060,Services-Hospitals,Standard,Sante,sic
+789019,MSFT,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+789073,BEAM,2080,Beverages,Standard,Conso de base,sic
+789570,MGM,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+789933,NC,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,Matieres et energie,sic
+790070,EMC,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+790528,RYI,5051,Wholesale-Metals Service Centers & of fices,Standard,Industrie et transport,sic
+791519,SPLS,5940,Retail-Miscellaneous Shopping Goods Stores,Standard,Conso de base,sic
+791907,LLTC,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+792985,HMA,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,Sante,sic
+793952,HOG,3751,"Motorcycles, Bicycles & Parts",Standard,Conso discretionnaire,sic
+794323,LVLT,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+794367,M,5311,Retail-Department Stores,Standard,Conso discretionnaire,sic
+795266,KBH,1531,Operative Builders,Standard,Industrie et transport,sic
+796343,ADBE,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+797468,OXY,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+798354,FI,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : FI : classement manuel (le SIC seul ne convient pas)
+800240,ODP,5940,Retail-Miscellaneous Shopping Goods Stores,Standard,Conso de base,sic
+800459,HAR,3651,Household Audio & Video Equipment,Standard,Conso discretionnaire,sic
+801898,HPH,3532,Mining Machinery & Equip (No Oil & Gas Field Mach & Equip),Standard,Industrie et transport,sic
+803014,CMVT,3661,Telephone & Telegraph Apparatus,Standard,Materiel tech et semi-conducteurs,sic
+804055,CCE,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,Conso de base,sic
+804212,ARG,5084,Wholesale-Industrial Machinery & Equipment,Standard,Industrie et transport,sic
+804328,QCOM,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+804753,CERN,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+808362,BHGE,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+808450,NAV,3711,Motor Vehicles & Passenger Car Bodies,Standard,Conso discretionnaire,sic
+812074,OI,3221,Glass Containers,Standard,Matieres et energie,sic
+813672,CDNS,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+813828,CBS,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+814453,NWL,3089,"Plastics Products, NEC",Standard,Conso discretionnaire,sic
+814547,FICO,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : FICO : classement manuel (le SIC seul ne convient pas)
+815094,ABMD,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+815097,CCL,4400,Water Transportation,Standard,Industrie et transport,sic
+815556,FAST,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,Conso discretionnaire,sic
+816284,CELG,2834,Pharmaceutical Preparations,Standard,Sante,sic
+816761,TDC,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+818479,XRAY,3843,Dental Equipment & Supplies,Standard,Sante,sic
+820096,PRGO,2834,Pharmaceutical Preparations,Standard,Sante,sic
+820313,APH,3678,Electronic Connectors,Standard,Materiel tech et semi-conducteurs,sic
+820318,COHR,3827,Optical Instruments & Lenses,Standard,Sante,sic
+821189,EOG,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+822416,PHM,1531,Operative Builders,Standard,Industrie et transport,sic
+823768,WM,4953,Refuse Systems,Standard,Industrie et transport,sic
+826083,DELL,3571,Electronic Computers,Standard,Materiel tech et semi-conducteurs,sic
+827054,MCHP,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+829224,SBUX,5810,Retail-Eating & Drinking Places,Standard,Conso discretionnaire,sic
+831259,FCX,1000,Metal Mining,Cyclique,Matieres et energie,sic
+832101,IEX,3561,Pumps & Pumping Equipment,Standard,Industrie et transport,sic
+832428,SSP,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+832988,SIG,5944,Retail-Jewelry Stores,Standard,Conso de base,sic
+833444,JCI,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,Industrie et transport,sic
+835729,BMC,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+836106,NVLS,3559,"Special Industry Machinery, NEC",Standard,Industrie et transport,sic
+842023,TECH,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+849395,CRH,3241,"Cement, Hydraulic",Standard,Matieres et energie,sic
+849399,GEN,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+850209,FL,5661,Retail-Shoe Stores,Standard,Conso discretionnaire,sic
+850693,AGN,2834,Pharmaceutical Preparations,Standard,Sante,sic
+851968,MHK,2273,Carpets & Rugs,Standard,Conso discretionnaire,sic
+857005,PTC,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+858339,HET,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+858470,COG,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+858877,CSCO,3576,Computer Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+859014,CPWR,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+859737,HOLX,3844,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,Standard,Sante,sic
+860730,HCA,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,Sante,sic
+860731,TYL,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+861878,SRCL,4955,Hazardous Waste Management,Standard,Industrie et transport,sic
+863157,PETM,5990,"Retail-Retail Stores, NEC",Standard,Conso de base,sic
+864328,BJS,1389,"Oil & Gas Field Services, NEC",Cyclique,Matieres et energie,sic
+864749,TRMB,3829,"Measuring & Controlling Devices, NEC",Standard,Sante,sic
+865436,WFM,5411,Retail-Grocery Stores,Standard,Conso de base,sic
+865752,MNST,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,Conso de base,sic
+866374,FLEX,3672,Printed Circuit Boards,Standard,Materiel tech et semi-conducteurs,sic
+866787,AZO,5531,Retail-Auto & Home Supply Stores,Standard,Conso discretionnaire,sic
+868809,XTO,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+872589,REGN,2834,Pharmaceutical Preparations,Standard,Sante,sic
+873364,CEPH,2834,Pharmaceutical Preparations,Standard,Sante,sic
+874016,JNY,2330,"Women's, Misses':  and Juniors Outerwear",Standard,Conso discretionnaire,sic
+874716,IDXX,2835,In Vitro & In Vivo Diagnostic Substances,Standard,Sante,sic
+874761,AES,4991,Cogeneration Services & Small Power Producers,Standard,Matieres et energie,sic
+875045,BGEN,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+875320,VRTX,2834,Pharmaceutical Preparations,Standard,Sante,sic
+877212,ZBRA,3560,General Industrial Machinery & Equipment,Standard,Industrie et transport,sic
+877890,CTXS,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+878927,ODFL,4213,Trucking (No Local),Standard,Industrie et transport,sic
+879169,INCY,8731,Services-Commercial Physical & Biological Research,Standard,Industrie et transport,sic
+879911,USHC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+880446,VTSS,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+882095,GILD,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+882184,DHI,1531,Operative Builders,Standard,Industrie et transport,sic
+882835,ROP,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,Sante,sic
+883241,SNPS,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+883569,FOSL,3873,"Watches, Clocks, Clockwork Operated Devices/Parts",Standard,Conso discretionnaire,sic
+883980,FDC,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : FDC : classement manuel (le SIC seul ne convient pas)
+884887,RCL,4400,Water Transportation,Standard,Industrie et transport,sic
+884905,PX,2810,Industrial Inorganic Chemicals,Standard,Matieres et energie,sic
+885639,KSS,5311,Retail-Department Stores,Standard,Conso discretionnaire,sic
+885721,ESRX,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+885725,BSX,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+886158,BBBY,5700,"Retail-Home Furniture, Furnishings & Equipment Stores",Standard,Conso discretionnaire,sic
+890801,MFE,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+891024,PDCO,5047,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",Standard,Sante,sic
+891103,MTCH,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+895126,CHK,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+896878,INTU,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+897723,SANM,3672,Printed Circuit Boards,Standard,Materiel tech et semi-conducteurs,sic
+898173,ORLY,5531,Retail-Auto & Home Supply Stores,Standard,Conso discretionnaire,sic
+898293,JBL,3672,Printed Circuit Boards,Standard,Materiel tech et semi-conducteurs,sic
+899866,ALXN,2834,Pharmaceutical Preparations,Standard,Sante,sic
+900075,CPRT,5500,Retail-Auto Dealers & Gasoline Stations,Standard,Conso discretionnaire,sic
+906163,NVR,1531,Operative Builders,Standard,Industrie et transport,sic
+906709,NKTR,2834,Pharmaceutical Preparations,Standard,Sante,sic
+908255,BWA,3714,Motor Vehicle Parts & Accessories,Standard,Conso discretionnaire,sic
+909832,COST,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+909954,GMCR,2090,Miscellaneous Food Preparations & Kindred Products,Standard,Conso de base,sic
+910521,DECK,3021,Rubber & Plastics Footwear,Standard,Conso discretionnaire,sic
+912093,VIAV,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+912615,URBN,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+912750,NFX,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+914208,IVZ,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+915389,EMN,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,Matieres et energie,sic
+915913,ALB,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,Matieres et energie,sic
+916076,MLM,1400,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),Cyclique,Matieres et energie,sic
+916365,TSCO,5200,"Retail-Building Materials, Hardware, Garden Supply",Standard,Conso discretionnaire,sic
+916457,CPNLQ,4911,Electric Services,Cyclique,Matieres et energie,sic
+918160,AKS,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,Matieres et energie,sic
+918386,QLGC,3576,Computer Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+920148,LH,8071,Services-Medical Laboratories,Standard,Sante,sic
+920448,BVSN,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+920760,LEN,1520,General Bldg Contractors - Residential Bldgs,Standard,Industrie et transport,sic
+921738,PENN,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+922621,ERIE,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+927066,DVA,8090,"Services-Misc Health & Allied Services, NEC",Standard,Sante,sic
+927653,MCK,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,Sante,sic
+929887,APOL,8200,Services-Educational Services,Standard,Conso discretionnaire,sic
+931336,DF,2020,Dairy Products,Standard,Conso de base,sic
+934612,BNI,4011,"Railroads, Line-Haul Operating",Standard,Industrie et transport,sic
+935703,DLTR,5331,Retail-Variety Stores,Standard,Conso discretionnaire,sic
+936395,CIEN,3661,Telephone & Telegraph Apparatus,Standard,Materiel tech et semi-conducteurs,sic
+936468,LMT,3760,Guided Missiles & Space Vehicles & Parts,Standard,Conso discretionnaire,sic
+940944,DRI,5812,Retail-Eating  Places,Standard,Conso discretionnaire,sic
+941548,CAM,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+943452,WAB,3743,Railroad Equipment,Standard,Industrie et transport,sic
+943819,RMD,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+945436,SUNEQ,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+945764,DNR,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+945841,POOL,5090,Wholesale-Misc Durable Goods,Standard,Industrie et transport,sic
+946581,TTWO,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+949039,DO,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+1000180,SNDK,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+1000228,HSIC,5047,"Wholesale-Medical, Dental & Hospital Equipment & Supplies",Standard,Sante,sic
+1000697,WAT,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+1001039,DIS,7990,Services-Miscellaneous Amusement & Recreation,Standard,Conso discretionnaire,sic
+1001082,DISH,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1001250,EL,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,Conso de base,sic
+1001288,LXK,3570,Computer & office Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1002047,NTAP,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+1004434,AMG,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+1004440,CEG,4911,Electric Services,Cyclique,Matieres et energie,sic
+1005414,TOY,5945,"Retail-Hobby, Toy & Game Shops",Standard,Conso de base,sic
+1008654,TUP,3089,"Plastics Products, NEC",Standard,Conso discretionnaire,sic
+1008817,SAPE,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+1009672,CRR,3290,"Abrasive, Asbestos & Misc Nonmetallic Mineral Prods",Standard,Matieres et energie,sic
+1010775,MIR,4911,Electric Services,Cyclique,Matieres et energie,sic
+1011006,AABA,,,Standard,Logiciels et services IT,manuel : AABA : classement manuel (le SIC seul ne convient pas)
+1011657,TIE,3341,Secondary Smelting & Refining of  Nonferrous Metals,Cyclique,Matieres et energie,sic
+1012100,SEE,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,Matieres et energie,sic
+1013237,FDS,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1013462,ANSS,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1013871,NRG,4911,Electric Services,Cyclique,Matieres et energie,sic
+1014473,VRSN,7371,Services-Computer Programming Services,Standard,Logiciels et services IT,sic
+1018724,AMZN,5961,Retail-Catalog & Mail-Order Houses,Standard,Conso discretionnaire,manuel : AMZN : classement manuel (le SIC seul ne convient pas)
+1018840,ANF,5651,Retail-Family Clothing Stores,Standard,Conso discretionnaire,sic
+1018963,ATI,3317,Steel Pipe & Tubes,Cyclique,Matieres et energie,sic
+1020416,MWW,7363,Services-Help Supply Services,Standard,Industrie et transport,sic
+1021860,NOV,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+1022079,DGX,8071,Services-Medical Laboratories,Standard,Sante,sic
+1022671,STLD,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,Matieres et energie,sic
+1023291,TXU,4911,Electric Services,Cyclique,Matieres et energie,sic
+1024305,COTY,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,Conso de base,sic
+1024478,ROK,3829,"Measuring & Controlling Devices, NEC",Standard,Industrie et transport,manuel : ROK : classement manuel (le SIC seul ne convient pas)
+1024725,TEN,3714,Motor Vehicle Parts & Accessories,Standard,Conso discretionnaire,sic
+1035002,VLO,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+1035267,ISRG,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+1035983,FIX,1731,Electrical Work,Standard,Industrie et transport,sic
+1037038,RL,2320,"Men's & Boys' Furnishgs, Work Clothg, & Allied Garments",Standard,Luxe,manuel : RL : classement manuel (le SIC seul ne convient pas)
+1037646,MTD,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+1037868,AME,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,Sante,sic
+1037949,Q,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+1038357,PXD,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1039101,LLL,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1041061,YUM,5812,Retail-Eating  Places,Standard,Conso discretionnaire,sic
+1042825,PWER,3679,"Electronic Components, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1043277,CHRW,4731,Arrangement of  Transportation of  Freight & Cargo,Standard,Industrie et transport,sic
+1043604,JNPR,3576,Computer Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1045309,GRA,2800,Chemicals & Allied Products,Standard,Matieres et energie,sic
+1045810,NVDA,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1047122,RTN,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+1048286,MAR,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1048695,FFIV,3576,Computer Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1048911,FDX,4513,Air Courier Services,Standard,Industrie et transport,sic
+1050915,PWR,1731,Electrical Work,Standard,Industrie et transport,sic
+1053112,CVC,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1054374,BRCM,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1056288,FII,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+1057352,CSGP,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : CSGP : classement manuel (le SIC seul ne convient pas)
+1058090,CMG,5812,Retail-Eating  Places,Standard,Conso discretionnaire,sic
+1058290,CTSH,7371,Services-Computer Programming Services,Standard,Logiciels et services IT,sic
+1059556,MCO,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,Industrie et transport,sic
+1060391,RSG,4953,Refuse Systems,Standard,Industrie et transport,sic
+1062047,CVG,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+1064728,BTUUQ,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,Matieres et energie,sic
+1065088,EBAY,7389,"Services-Business Services, NEC",Standard,Conso discretionnaire,manuel : EBAY : classement manuel (le SIC seul ne convient pas)
+1065280,NFLX,7841,Services-Video Tape Rental,Standard,Telecom et medias,sic
+1065696,LKQ,5010,Wholesale-Motor Vehicles & Motor Vehicle Parts & Supplies,Standard,Industrie et transport,sic
+1065865,JNS,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+1067701,URI,7359,"Services-Equipment Rental & Leasing, NEC",Standard,Industrie et transport,sic
+1069183,AXON,3480,"Ordnance & Accessories, (No Vehicles/Guided Missiles)",Standard,Industrie et transport,sic
+1069202,LII,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,Industrie et transport,sic
+1070412,CNX,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1073431,LIFE,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+1075531,BKNG,4700,Transportation Services,Standard,Industrie et transport,sic
+1076405,PBG,2080,Beverages,Standard,Conso de base,sic
+1086222,AKAM,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : AKAM : classement manuel (le SIC seul ne convient pas)
+1087423,RHT,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1090012,DVN,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1090727,UPS,4210,Trucking & Courier Services (No Air),Standard,Industrie et transport,sic
+1090872,A,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+1091667,CHTR,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1093557,DXCM,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+1094285,TDY,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+1097149,ALGN,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+1097864,ON,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1099800,EW,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+1100682,CRL,8731,Services-Commercial Physical & Biological Research,Standard,Industrie et transport,sic
+1100962,ENDP,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1103982,MDLZ,2000,Food and Kindred Products,Standard,Conso de base,sic
+1105705,TWX,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1108524,CRM,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1108827,QEP,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1110783,MON,2870,Agricultural Chemicals,Standard,Matieres et energie,sic
+1110803,ILMN,3826,Laboratory Analytical Instruments,Standard,Sante,sic
+1111335,VSTNQ,3714,Motor Vehicle Parts & Accessories,Standard,Conso discretionnaire,sic
+1111928,IPGP,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1113169,TROW,6282,Investment Advice,Standard,Finance non bancaire et paiements,sic
+1115222,DNB,7320,"Services-Consumer Credit Reporting, Collection Agencies",Standard,Industrie et transport,sic
+1116132,TPR,3100,Leather & Leather Products,Standard,Luxe,manuel : TPR : classement manuel (le SIC seul ne convient pas)
+1116521,AV,3661,Telephone & Telegraph Apparatus,Standard,Materiel tech et semi-conducteurs,sic
+1120193,NDAQ,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,Finance non bancaire et paiements,sic
+1121788,GRMN,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+1123360,GPN,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : GPN : classement manuel (le SIC seul ne convient pas)
+1124198,FLR,1600,Heavy Construction Other Than Bldg Const - Contractors,Standard,Industrie et transport,sic
+1133421,NOC,3812,"Search, Detection, Navigation, Guidance, Aeronautical Sys",Standard,Industrie et transport,sic
+1135152,FTI,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+1136869,ZBH,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+1136893,FIS,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : FIS : classement manuel (le SIC seul ne convient pas)
+1137411,COL,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Standard,Industrie et transport,sic
+1137789,STX,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+1138118,CBRE,6500,Real Estate,Standard,Finance non bancaire et paiements,sic
+1140536,WLTW,6411,"Insurance Agents, Brokers & Service",Standard,Finance non bancaire et paiements,sic
+1140859,ABC,5122,"Wholesale-Drugs, Proprietaries & Druggists' Sundries",Standard,Sante,sic
+1141391,MA,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : MA : classement manuel (le SIC seul ne convient pas)
+1141982,CBE,3670,Electronic Components & Accessories,Standard,Materiel tech et semi-conducteurs,sic
+1144215,AYI,3640,Electric Lighting & Wiring Equipment,Standard,Industrie et transport,sic
+1145197,PODD,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+1156375,CME,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,Finance non bancaire et paiements,sic
+1158449,AAP,5531,Retail-Auto & Home Supply Stores,Standard,Conso discretionnaire,sic
+1159297,MWV,2621,Paper Mills,Cyclique,Matieres et energie,sic
+1163165,COP,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+1163302,X,3312,"Steel Works, Blast Furnaces & Rolling Mills (Coke Ovens)",Cyclique,Matieres et energie,sic
+1163739,NBR,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+1164727,NEM,1040,Gold and Silver Ores,Cyclique,Matieres et energie,sic
+1166126,JCP,5311,Retail-Department Stores,Standard,Conso discretionnaire,sic
+1166691,CMCSA,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1168054,XEC,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1169055,NE,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+1170010,KMX,5500,Retail-Auto Dealers & Gasoline Stations,Standard,Conso discretionnaire,sic
+1170650,MHS,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+1174746,ICE,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,Finance non bancaire et paiements,sic
+1174922,WYNN,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1175454,CPAY,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : CPAY : classement manuel (le SIC seul ne convient pas)
+1219601,CCK,3411,Metal Cans,Standard,Industrie et transport,sic
+1260221,TDG,3728,"Aircraft Parts & Auxiliary Equipment, NEC",Standard,Industrie et transport,sic
+1262039,FTNT,3577,"Computer Peripheral Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1274057,HSP,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1274494,FSLR,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1275283,RAI,2111,Cigarettes,Standard,Conso de base,sic
+1278021,MKTX,6211,"Security Brokers, Dealers & Flotation Companies",Standard,Finance non bancaire et paiements,sic
+1280452,MPWR,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1282266,WIN,4813,Telephone Communications (No Radiotelephone),Standard,Telecom et medias,sic
+1283699,TMUS,4812,Radiotelephone Communications,Standard,Telecom et medias,sic
+1285785,MOS,2870,Agricultural Chemicals,Standard,Matieres et energie,sic
+1286681,DPZ,5140,Wholesale-Groceries & Related Products,Standard,Conso de base,sic
+1288776,GOOG,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1300514,LVS,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1301063,ANRZQ,1221,Bituminous Coal & Lignite Surface Mining,Cyclique,Matieres et energie,sic
+1305014,ASH,5160,Wholesale-Chemicals & Allied Products,Standard,Conso de base,sic
+1306830,CE,2820,"Plastic Material, Synth Resin/Rubber, Cellulos (No Glass)",Standard,Matieres et energie,sic
+1308161,FOX,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1310067,SHLD,5311,Retail-Department Stores,Standard,Conso discretionnaire,sic
+1316835,BLDR,5211,Retail-Lumber & Other Building Materials Dealers,Standard,Conso discretionnaire,sic
+1318605,TSLA,3711,Motor Vehicles & Passenger Car Bodies,Standard,Conso discretionnaire,sic
+1321655,PLTR,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1324404,CF,2870,Agricultural Chemicals,Standard,Matieres et energie,sic
+1324424,EXPE,4700,Transportation Services,Standard,Industrie et transport,sic
+1326380,GME,5734,Retail-Computer & Computer Software Stores,Standard,Conso discretionnaire,sic
+1326801,FB,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1327567,PANW,3577,"Computer Peripheral Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1327811,WDAY,7374,Services-Computer Processing & Data Preparation,Standard,Logiciels et services IT,sic
+1335258,LYV,7900,Services-Amusement & Recreation Services,Standard,Conso discretionnaire,sic
+1336917,UA,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Standard,Conso discretionnaire,sic
+1336920,LDOS,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+1339947,VIAB,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1341439,ORCL,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1352010,EPAM,7371,Services-Computer Programming Services,Standard,Logiciels et services IT,sic
+1355001,H,6531,Real Estate Agents & Managers (For Others),Standard,Finance non bancaire et paiements,sic
+1358071,CXO,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1359841,HBI,5600,Retail-Apparel & Accessory Stores,Standard,Conso discretionnaire,sic
+1361658,WYND,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1364742,BLK,6211,"Security Brokers, Dealers & Flotation Companies",Standard,Finance non bancaire et paiements,sic
+1365135,WU,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : WU : classement manuel (le SIC seul ne convient pas)
+1368007,NYX,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,Finance non bancaire et paiements,sic
+1370637,ETSY,7389,"Services-Business Services, NEC",Standard,Conso discretionnaire,manuel : ETSY : classement manuel (le SIC seul ne convient pas)
+1373715,NOW,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1374310,CBOE,6200,"Security & Commodity Brokers, Dealers, Exchanges & Services",Standard,Finance non bancaire et paiements,sic
+1375365,SMCI,3571,Electronic Computers,Standard,Materiel tech et semi-conducteurs,sic
+1377013,TWC,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1379895,DYN,4911,Electric Services,Cyclique,Matieres et energie,sic
+1383312,BR,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : BR : classement manuel (le SIC seul ne convient pas)
+1385157,TEL,5065,"Wholesale-Electronic Parts & Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1385187,COV,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+1393052,VEEV,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1396009,VMC,1400,Mining & Quarrying of  Nonmetallic Minerals (No Fuels),Cyclique,Matieres et energie,sic
+1397187,LULU,2300,Apparel & Other Finishd Prods of  Fabrics & Similar Matl,Standard,Conso discretionnaire,sic
+1402057,CDW,5961,Retail-Catalog & Mail-Order Houses,Standard,Conso de base,sic
+1403161,V,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : V : classement manuel (le SIC seul ne convient pas)
+1403568,ULTA,5990,"Retail-Retail Stores, NEC",Standard,Conso de base,sic
+1408198,MSCI,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : MSCI : classement manuel (le SIC seul ne convient pas)
+1413329,PM,2111,Cigarettes,Standard,Conso de base,sic
+1413447,NXPI,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1415404,ECHO,4899,"Communications Services, NEC",Standard,Telecom et medias,sic
+1418091,TWTR,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1418135,KDP,2080,Beverages,Standard,Conso de base,sic
+1419612,SEDG,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1424847,LO,2111,Cigarettes,Standard,Conso de base,sic
+1430602,SNI,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1437107,DISCA,4841,Cable & Other Pay Television Services,Standard,Telecom et medias,sic
+1441634,AVGO,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1442145,VRSK,7374,Services-Computer Processing & Data Preparation,Standard,Logiciels et services IT,sic
+1451505,RIG,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+1452575,MJN,2000,Food and Kindred Products,Standard,Conso de base,sic
+1457543,CFN,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+1458891,NE,1381,Drilling Oil & Gas Wells,Cyclique,Matieres et energie,sic
+1463101,ENPH,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1466258,TT,3822,Auto Controls For Regulating Residential & Comml Environments,Standard,Sante,sic
+1467373,ACN,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : ACN : classement manuel (le SIC seul ne convient pas)
+1467858,GM,3711,Motor Vehicles & Passenger Car Bodies,Standard,Conso discretionnaire,sic
+1474735,GNRC,3621,Motors & Generators,Standard,Industrie et transport,sic
+1478242,IQV,8731,Services-Commercial Physical & Biological Research,Standard,Industrie et transport,sic
+1489393,LYB,2860,Industrial Organic Chemicals,Standard,Matieres et energie,sic
+1491675,CCE,2086,Bottled & Canned Soft Drinks & Carbonated Waters,Standard,Conso de base,sic
+1492633,NLSN,7389,"Services-Business Services, NEC",Standard,Logiciels et services IT,manuel : NLSN : classement manuel (le SIC seul ne convient pas)
+1495569,MMI,3663,Radio & Tv Broadcasting & Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1501585,HII,3730,Ship & Boat Building & Repairing,Standard,Industrie et transport,sic
+1510295,MPC,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+1512673,XYZ,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1513761,NCLH,4400,Water Transportation,Standard,Industrie et transport,sic
+1518832,WPX,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1519751,FBHS,2430,"Millwood, Veneer, Plywood, & Structural Wood Members",Standard,Matieres et energie,sic
+1521332,APTV,3714,Motor Vehicle Parts & Accessories,Standard,Conso discretionnaire,sic
+1524472,XYL,3561,Pumps & Pumping Equipment,Standard,Industrie et transport,sic
+1526520,TRIP,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1530721,CPRI,3100,Leather & Leather Products,Standard,Luxe,manuel : CPRI : classement manuel (le SIC seul ne convient pas)
+1532063,ESRX,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+1534701,PSX,2911,Petroleum Refining,Cyclique,Matieres et energie,sic
+1535527,CRWD,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1539838,FANG,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1543151,UBER,7389,"Services-Business Services, NEC",Standard,Conso discretionnaire,manuel : UBER : classement manuel (le SIC seul ne convient pas)
+1545158,KRFT,2000,Food and Kindred Products,Standard,Conso de base,sic
+1546640,ADT,7381,"Services-Detective, Guard & Armored Car Services",Standard,Industrie et transport,sic
+1551152,ABBV,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1551182,ETN,3590,Misc Industrial & Commercial Machinery & Equipment,Standard,Industrie et transport,sic
+1555280,ZTS,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1559720,ABNB,7340,Services-To Dwellings & Other Buildings,Standard,Industrie et transport,sic
+1561550,DDOG,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1564708,NWS,2711,Newspapers: Publishing or  Publishing & Printing,Standard,Telecom et medias,sic
+1567892,MNK,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1571996,DELL,3571,Electronic Computers,Standard,Materiel tech et semi-conducteurs,sic
+1578318,EVHC,8062,"Services-General Medical & Surgical Hospitals, NEC",Standard,Sante,sic
+1578845,AGN,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1579241,ALLE,7381,"Services-Detective, Guard & Armored Car Services",Standard,Industrie et transport,sic
+1585364,PRGO,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1585689,HLT,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1590895,CZR,7011,Hotels & Motels,Standard,Conso discretionnaire,sic
+1590955,PAYC,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1593034,ENDP,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1596532,ANET,3576,Computer Communications Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1596783,CTLT,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1598014,INFO,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1601046,KEYS,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,Sante,sic
+1603923,WFT,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+1604778,QRVO,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1609711,GDDY,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+1613103,MDT,3845,Electromedical & Electrotherapeutic Apparatus,Standard,Sante,sic
+1618921,WBA,5912,Retail-Drug Stores and Proprietary Stores,Standard,Conso de base,sic
+1620546,BXLT,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1623613,MYL,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1633917,PYPL,7389,"Services-Business Services, NEC",Standard,Finance non bancaire et paiements,manuel : PYPL : classement manuel (le SIC seul ne convient pas)
+1633978,LITE,3669,"Communications Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1636023,WRK,2650,Paperboard Containers & Boxes,Standard,Matieres et energie,sic
+1637459,KHC,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,Conso de base,sic
+1645590,HPE,3570,Computer & office Equipment,Standard,Materiel tech et semi-conducteurs,sic
+1646383,CSRA,7373,Services-Computer Integrated Systems Design,Standard,Logiciels et services IT,sic
+1649338,AVGO,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1652044,GOOG,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1659166,FTV,3823,"Industrial Instruments For Measurement, Display, and Control",Standard,Sante,sic
+1666700,DD,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,Matieres et energie,sic
+1671933,TTD,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1674101,VRT,3679,"Electronic Components, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1678531,EVHC,8011,Services-Offices & Clinics of  Doctors of  Medicine,Standard,Sante,sic
+1679273,LW,2030,"Canned, Frozen & Preservd Fruit, Veg & Food Specialties",Standard,Conso de base,sic
+1681459,FTI,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+1682852,MRNA,2836,"Biological Products, (No Diagnostic Substances)",Standard,Sante,sic
+1687229,INVH,6510,Real Estate Operators (No Developers) & Lessors,Standard,Finance non bancaire et paiements,sic
+1688568,DXC,7374,Services-Computer Processing & Data Preparation,Standard,Logiciels et services IT,sic
+1690820,CVNA,5500,Retail-Auto Dealers & Gasoline Stations,Standard,Conso discretionnaire,sic
+1692819,VST,4911,Electric Services,Cyclique,Matieres et energie,sic
+1699150,IR,3560,General Industrial Machinery & Equipment,Standard,Industrie et transport,sic
+1701605,BHGE,3533,Oil & Gas Field Machinery & Equipment,Standard,Industrie et transport,sic
+1707925,LIN,2810,Industrial Inorganic Chemicals,Standard,Matieres et energie,sic
+1713445,RDDT,7374,Services-Computer Processing & Data Preparation,Standard,Logiciels et services IT,sic
+1725057,CDAY,7372,Services-Prepackaged Software,Standard,Logiciels et services IT,sic
+1730168,AVGO,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1732845,WRK,2650,Paperboard Containers & Boxes,Standard,Matieres et energie,sic
+1744489,DIS,7990,Services-Miscellaneous Amusement & Recreation,Standard,Conso discretionnaire,sic
+1748790,AMCR,3990,Miscellaneous Manufacturing Industries,Standard,Industrie et transport,sic
+1751008,APP,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1751788,DOW,2821,"Plastic Materials, Synth Resins & Nonvulcan Elastomers",Standard,Matieres et energie,sic
+1754301,FOX,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+1755672,CTVA,100,Agricultural Production-Crops,Standard,Conso de base,sic
+1757898,STE,3842,"Orthopedic, Prosthetic & Surgical Appliances & Supplies",Standard,Sante,sic
+1770450,XRX,3577,"Computer Peripheral Equipment, NEC",Standard,Materiel tech et semi-conducteurs,sic
+1781335,OTIS,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,Industrie et transport,sic
+1783180,CARR,3585,Air-Cond & Warm Air Heatg Equip & Comm & Indl Refrig Equip,Standard,Industrie et transport,sic
+1786842,VNT,3824,Totalizing Fluid Meters & Counting Devices,Standard,Sante,sic
+1792044,VTRS,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1792789,DASH,7389,"Services-Business Services, NEC",Standard,Conso discretionnaire,manuel : DASH : classement manuel (le SIC seul ne convient pas)
+1800227,IAC,7370,"Services-Computer Programming, Data Processing, Etc.",Standard,Logiciels et services IT,sic
+1811074,TPL,6792,Oil Royalty Traders,Standard,Matieres et energie,sic
+1821825,OGN,2834,Pharmaceutical Preparations,Standard,Sante,sic
+1835632,MRVL,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+1841666,APA,1311,Crude Petroleum & Natural Gas,Cyclique,Matieres et energie,sic
+1868275,CEG,4911,Electric Services,Cyclique,Matieres et energie,sic
+1932393,GEHC,3844,X-Ray Apparatus & Tubes & Related Irradiation Apparatus,Standard,Sante,sic
+1944048,KVUE,2844,"Perfumes, Cosmetics & Other Toilet Preparations",Standard,Conso de base,sic
+1964738,SOLV,3841,Surgical & Medical Instruments & Apparatus,Standard,Sante,sic
+1967680,VLTO,3825,Instruments For Meas & Testing of  Electricity & Elec Signals,Standard,Sante,sic
+1973266,TKO,7900,Services-Amusement & Recreation Services,Standard,Conso discretionnaire,sic
+1996810,GEV,3600,Electronic & Other Electrical Equipment (No Computer Equip),Standard,Industrie et transport,sic
+1996862,BG,2070,Fats & Oils,Standard,Conso de base,sic
+2005951,SW,2650,Paperboard Containers & Boxes,Standard,Matieres et energie,sic
+2011286,AMTM,7389,"Services-Business Services, NEC",Standard,Industrie et transport,manuel : AMTM : classement manuel (le SIC seul ne convient pas)
+2011641,FERG,5070,Wholesale-Hardware & Plumbing & Heating Equipment & Supplies,Standard,Industrie et transport,sic
+2012383,BLK,6211,"Security Brokers, Dealers & Flotation Companies",Standard,Finance non bancaire et paiements,sic
+2023554,SNDK,3572,Computer Storage Devices,Standard,Materiel tech et semi-conducteurs,sic
+2041610,PSKY,4833,Television Broadcasting Stations,Standard,Telecom et medias,sic
+2058873,Q,3674,Semiconductors & Related Devices,Standard,Materiel tech et semi-conducteurs,sic
+2064953,SOLS,2800,Chemicals & Allied Products,Standard,Matieres et energie,sic
+2082247,FDXF,4513,Air Courier Services,Standard,Industrie et transport,sic
