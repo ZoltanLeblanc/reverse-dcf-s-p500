@@ -1,0 +1,73 @@
+cik,annee,ticker,raison
+68505,2010,MSI,valeur aberrante deja exclue dans a12
+1279363,2010,WCG,valeur aberrante deja exclue dans a12
+709804,2010,SXCL,valeur aberrante deja exclue dans a12
+709804,2012,SXCL,valeur aberrante deja exclue dans a12
+1024725,2010,TEN,cours Yahoo d'un autre titre (Tsakos) : capitalisation 3 a 10 % du chiffre d'affaires
+1024725,2011,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2012,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2013,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2014,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2015,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2016,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2017,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2018,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2019,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2020,TEN,cours Yahoo d'un autre titre (Tsakos)
+1024725,2021,TEN,cours Yahoo d'un autre titre (Tsakos)
+1437107,2021,DISCK,nombre d'actions d'une seule classe (169 M contre 599 M en 2020)
+1140536,2015,WTW,nombre d'actions et facteur d'ajustement incoherents (68 M contre 178 M en 2014)
+883980,2015,FDC,actions de la seule classe A apres l'introduction en bourse (192 M contre 902 M en 2016)
+1585689,2016,HLT,actions apres le regroupement d'actions de 2017 avec un cours non remis a l'echelle
+1678531,2015,EVHC,actions d'AmSurg (54 M) avec le cours d'Envision
+850693,2010,AGN,cours de Watson/Actavis et non d'Allergan Inc
+850693,2011,AGN,cours de Watson/Actavis et non d'Allergan Inc
+850693,2012,AGN,cours d'Actavis et non d'Allergan Inc
+850693,2013,AGN,cours d'Actavis et non d'Allergan Inc
+850693,2014,AGN,cours d'Actavis et non d'Allergan Inc
+1393052,2014,VEEV,actions de la seule classe A (52 M contre 128 M l'annee suivante)
+1671933,2016,TTD,actions de la seule classe A (18 M contre 40 M l'annee suivante)
+1792789,2020,DASH,actions de la seule classe A (62 M contre 371 M en 2022)
+833444,2014,JCI,fusion Tyco : melange des chiffres de l ancien Johnson Controls et de Tyco
+833444,2015,JCI,fusion Tyco : melange des chiffres de l ancien Johnson Controls et de Tyco
+833444,2016,JCI,actions = moyenne ponderee 667 M contre 935 M en 2017 : capitalisation sous-estimee
+4281,2016,HWM,cours Yahoo 14.22 contre 18.54 (Twelve Data) : cours ajuste d une separation absente de la liste des splits
+4281,2017,HWM,meme cause possible que 2016
+1571996,2017,DELL,cours de l action de suivi DVMT applique a toutes les actions de Dell
+1571996,2018,DELL,cours de l action de suivi DVMT applique a toutes les actions de Dell
+7084,2012,ADM,changement d exercice : cours pris 6 mois apres les fondamentaux
+1123360,2016,GPN,changement d exercice : cours pris 7 mois apres les fondamentaux
+1108827,2016,QEP,capex non fiable : seul le tag d acquisitions de gisements existe
+1108827,2017,QEP,capex non fiable : seul le tag d acquisitions de gisements existe
+1108827,2018,QEP,capex non fiable : seul le tag d acquisitions de gisements existe
+1108827,2019,QEP,capex non fiable : seul le tag d acquisitions de gisements existe
+1108827,2020,QEP,capex non fiable : seul le tag d acquisitions de gisements existe
+1578845,2012,AGN,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1578845,2013,AGN,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1578845,2014,AGN,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1649338,2015,AVGO,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1730168,2017,AVGO,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+2012383,2023,BLK,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1739940,2017,CI,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1666700,2016,DD,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1744489,2018,DIS,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1688568,2017,DXC,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1532063,2011,ESRX,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1551182,2011,ETN,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1652044,2014,GOOG,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1613103,2014,MDT,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1623613,2014,MYL,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1585364,2013,PRGO,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1618921,2014,WBA,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1770450,2018,XRX,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+831259,2010,FCX,capex non fiable : seul le tag des autres investissements existe : 173 M$ pour un OCF de 6 Md$
+1681459,2016,FTI,nombre d actions incoherent : 125 M en 2016 contre 465 M en 2017 : capitalisation douteuse
+1841666,2020,APA,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1593034,2013,ENDP,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1169055,2015,NE,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1169055,2016,NE,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+1732845,2017,WRK,doublon ticker-annee : CIK different de celui de ticker_cik_sp500.csv a cette date
+879169,2018,INCY,dette long terme 1.909e10 contre 2.68e7 et 3.19e7 les annees voisines (facteur 1000 probable) : a verifier dans le 10-K
+202058,2019,HRS,date de cloture 2020-01-03 (periode de transition L3Harris) pour des flux de l exercice juin 2019 et des actions d avant la fusion
+85961,2014,R,actions 5.31 M contre 53.3 M les annees voisines (erreur x10 probable) : a verifier dans le 10-K
+1513761,2012,NCLH,actions 21.0 M avant l introduction en bourse de janvier 2013 contre 177.9 M et 205.2 M les annees voisines : a verifier
