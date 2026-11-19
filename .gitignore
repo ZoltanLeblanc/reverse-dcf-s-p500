@@ -1,0 +1,39 @@
+# Ne jamais publier
+tiingo_token.txt
+*token*.txt
+
+# Caches et données lourdes
+Companyfacts/
+Submissions/
+Prix/
+__pycache__/
+*.pyc
+
+# Prix et fichiers dérivés des prix (licence des fournisseurs)
+Python/prix_cloture.csv
+Python/valeur_entreprise.csv
+Python/g_implicite.csv
+Python/alertes_prix.csv
+Python/backtest_lignes.csv
+Python/**/prix_cloture.csv
+Python/**/valeur_entreprise.csv
+Reverse_DCF_App/data/data.js
+
+# Historique de composition du S&P 500 (source tierce)
+Historique S&P500/
+Historique(S&P500)/
+
+# Fichiers personnels et internes
+Note.txt
+*.xlsx
+Rapport/
+Python/rapport_revue_projet.md
+Python/Archive non officielle/
+Reverse_DCF_App/data/*.js
+
+# Fichiers temporaires
+~$*
+Python/g_implicite_fixe.csv
+
+# Fichier de correctifs interne (contient des chemins personnels)
+correctifs_publication.patch
