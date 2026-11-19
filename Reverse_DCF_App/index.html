@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Reverse DCF S&amp;P 500</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="#/accueil"><b>Reverse DCF</b> <span>S&amp;P 500</span></a>
+    <nav id="nav" aria-label="Pages"></nav>
+    <div class="rctl" title="Prime de risque actions. Le taux d'actualisation r est un WACC de marché par année : taux du Trésor à 10 ans + prime, pondéré avec la dette. Les cycliques ont +1 point.">
+      <label for="rr">Prime</label>
+      <input id="rr" type="range" min="0.02" max="0.08" step="0.005" value="0.05">
+      <output id="rrOut">5,0 %</output>
+      <label class="chk"><input id="cyc" type="checkbox" checked> cycliques +1 pt</label>
+      <label class="chk"><input id="fix" type="checkbox"> r fixe 9 %</label>
+    </div>
+  </div>
+</header>
+<main id="main" class="wrap" tabindex="-1"></main>
+<div class="tip" id="tip" role="tooltip"></div>
+<noscript>Cette page demande JavaScript.</noscript>
+<script src="data/data.js"></script>
+<script src="js/01_core.js"></script>
+<script src="js/02_charts.js"></script>
+<script src="js/03_accueil_entreprise.js"></script>
+<script src="js/04_marche_blocs_backtest.js"></script>
+<script src="js/05_qualite_methode.js"></script>
+<script src="js/06_router.js"></script>
+</body>
+</html>
